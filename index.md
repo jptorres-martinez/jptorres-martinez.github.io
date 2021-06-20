@@ -1,5 +1,4 @@
-##  Microeconomía II - Doctorado y Magíster en Economía - [[1] T1 - Diseno de Mercados.pdf](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683259/1.T1.-.Diseno.de.Mercados.pdf)
-Universidad de Chile
+##  Microeconomía II - Doctorado y Magíster en Economía - Universidad de Chile
 
 You can use the [editor on GitHub](https://github.com/jptorres-martinez/jptorres-martinez.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
