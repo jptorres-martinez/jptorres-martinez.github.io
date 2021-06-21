@@ -1,12 +1,12 @@
-##  Equilibrio General
+##  Teoría de Equilibrio General
+### Existencia y Propiedades de Bienestar Social del Equilibrio Walrasiano en Economías Estáticas
 
-### Existencia de Equilibrio y Propiedades de Bienestar Social en Economías Estáticas
+Estudiaremos el modelo básico de equilibrio competitivo y determinaremos condiciones suficientes sobre preferencias y asignaciones iniciales para asegurar la existencia de un equilibrio Walrasiano. Demostraremos la existencia de precios de equilibrio utilizando _juegos generalizados_. Esta técnica será facilmente adaptable para demostrar la existencia de equilibrio en modelos más complejos, como aquellos que incluyen producción, impuestos, externalidades o mercados financieros. 
 
-Estudiaremos el modelo básico de equilibrio competitivo y determinaremos condiciones suficientes sobre preferencias y asignaciones iniciales para asegurar la existencia de un equilibrio Walrasiano. Demostraremos la existencia de precios de equilibrio utilizando _juegos generalizados_. Esta técnica dedemostración será facilmente adaptable para demostrar la existencia de equilibrio en modelos más complejos, como aquellos que incluyen producción, impuestos, externalidades o mercados financieros.   
+Además, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio (Pareto eficiencia y estabilidad a desvíos de coaliciones) y analizaremos las condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo Walrasiano.     
 
-Estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio: Pareto eficiencia y estabilidad a desvíos de coaliciones. Además, analizaremos las condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo Walrasiano.  
+[Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683274/Micro.II.Economias.de.Intercambio.-.Equilibrio.y.Bienestar.Social.pdf)      -      [Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf) 
 
-[Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683274/Micro.II.Economias.de.Intercambio.-.Equilibrio.y.Bienestar.Social.pdf)      -      [Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)
 
 
 
