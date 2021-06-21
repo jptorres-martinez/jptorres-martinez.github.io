@@ -31,11 +31,13 @@
     
 ##  Elección Social
 
-- #### Elección Social Centralizada
-   Estudiaremos funciones que asocian una _preferencia social_ a cada perfil de preferencias de los agentes, llamados Funcionales de Bienestar Social. Demostraremos el Teorema de May y el Teorema de Imposibilidad de Arrow. 
+- #### Elección Social Centralizada e Implementación en Estrategias Dominantes
+   Estudiaremos la existencia de _preferencias sociales_ (relaciones de preferencia que reflejen los gustos de todos los miembros de la sociedad). Demostraremos el Teorema de May y el Teorema de Imposibilidad de Arrow. Además, discutiremos las limitaciones para implementar elecciones sociales eficientes en situaciones donde el planificador central tiene información incompleta sobre las preferencias individuales y no puede hacer transferencias (Teorema de Gibbard-Satterthwaite).
    
    [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6688983/Micro.I.Arrow.%2B.Gibbard-Satterthwaite.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Yu (Economic Theory, 2013)](https://link.springer.com/article/10.1007/s40505-013-0016-2)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689163/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)
-
+   
+- #### Implementación en Estrategias Dominantes con Transferencias 
+   Estudiaremos modelos en los cuales los agentes tienen preferencias cuasi-lineales y el planificador central puede implementar transferencias para incentivarlos a revelar información sobre sus verdaderas preferencias. Por ejemplo, analizaremos el problema de provisión de un bien público y la venta de un bien indivisible de forma eficiente. Mostraremos que estos problemas son casos particulares del mecanismo de Vickrey-Clarke-Groves, el cual caracterizaremos en detalle. 
 
    
    
