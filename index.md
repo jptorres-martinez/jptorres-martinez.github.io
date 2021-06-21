@@ -34,7 +34,8 @@
 - #### Elección Social Centralizada
    Estudiaremos funciones que asocian una _preferencia social_ a cada perfil de preferencias de los agentes, llamados Funcionales de Bienestar Social. Demostraremos el Teorema de May y el Teorema de Imposibilidad de Arrow. 
    
-   [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6688983/Micro.I.Arrow.%2B.Gibbard-Satterthwaite.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Yu (Economic Theory, 2013)](https://link.springer.com/article/10.1007/s40505-013-0016-2)
+   [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6688983/Micro.I.Arrow.%2B.Gibbard-Satterthwaite.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Yu (Economic Theory, 2013)](https://link.springer.com/article/10.1007/s40505-013-0016-2)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689163/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)
+
 
    
    
