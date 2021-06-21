@@ -1,7 +1,7 @@
 ###  Teoría de Equilibrio General
 - #### Existencia de Equilibrio Walrasiano en Economías Estáticas sin Producción
-    Estudiaremos el modelo básico de equilibrio competitivo y determinaremos condiciones suficientes para asegurar la existencia de un equilibrio Walrasiano. Demostraremos la existencia de precios de equilibrio utilizando _juegos generalizados_. Esta técnica será facilmente adaptable para demostrar la existencia de equilibrio en modelos más complejos, como aquellos que incluyen producción, externalidades o mercados financieros. 
-
+   Estudiaremos el modelo básico de equilibrio competitivo y determinaremos condiciones suficientes para asegurar la existencia de un equilibrio Walrasiano. Demostraremos la existencia de precios de equilibrio utilizando _juegos generalizados_. Esta técnica será facilmente adaptable para demostrar la existencia de equilibrio en modelos más complejos, como aquellos que incluyen producción, externalidades o mercados financieros. 
+    
    [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683948/Micro.II.Economias.de.Intercambio.-.Equilibrio.pdf)  &nbsp;   -    &nbsp; [Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)  &nbsp;   -    &nbsp; [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683383/Ejercicios.Resueltos.Equilibrio.general.pdf)
 
  - #### Propiedades de Bienestar Social del Equilibrio Walrasiano en Economías Estáticas sin Producción
@@ -18,7 +18,10 @@
 
   - #### Equilibrio en Economías Estáticas con Producción (Existencia, Bienestar Social y Unicidad)
    
-    Incluiremos producción en las economías de intercambio y extenderemos los resultados previos de existencia de equilibrio y propiedades de bienestar social.
+    Incluiremos producción en en el modelo básico de intercambio y discutiremos la existencia y la unicidad de equilibrio, asi como las propiedades de bienestar social de las distribuciones de recursos obtenidas. 
+    
+    
+  - #### Tiempo e Incertidumbre: Equilibrio en Mercados Contingentes y en Mercados Financieros
 
 
 
