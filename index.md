@@ -2,11 +2,13 @@
 
 ### Existencia de Equilibrio y Propiedades de Bienestar Social en Economías Estáticas
 
-Estudiaremos el modelo básico Walrasiano y determinaremos condiciones suficientes sobre preferencias y asignaciones iniciales para asegurar la existencia de equilibrio. Demostraremos equilibrio utilizando _juegos generalizados_. Esta técnica nos permitirá adapatar la demostración de existencia de equilibrio a modelos más complejos. Por ejemplo, aquellos que incluyen producción, impuestos, externalidades o mercados financieros.   
+Estudiaremos el modelo básico de equilibrio competitivo y determinaremos condiciones suficientes sobre preferencias y asignaciones iniciales para asegurar la existencia de un equilibrio Walrasiano. Demostraremos la existencia de precios de equilibrio utilizando _juegos generalizados_. Esta técnica dedemostración será facilmente adaptable para demostrar la existencia de equilibrio en modelos más complejos, como aquellos que incluyen producción, impuestos, externalidades o mercados financieros.   
 
-Estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio (Pareto eficiencia, estabilidad a desvíos de coaliciones). Además, analizaremos las condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo Walrasiano.  
+Estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio: Pareto eficiencia y estabilidad a desvíos de coaliciones. Además, analizaremos las condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo Walrasiano.  
 
-Material de apoyo para las clases [(link)](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683274/Micro.II.Economias.de.Intercambio.-.Equilibrio.y.Bienestar.Social.pdf)
+[Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683274/Micro.II.Economias.de.Intercambio.-.Equilibrio.y.Bienestar.Social.pdf)      -      [Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)
+
+
 
 
 
