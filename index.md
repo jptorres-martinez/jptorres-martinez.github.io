@@ -27,6 +27,12 @@
     Extenderemos el modelo básico para incluir tiempo e incertidumbre. Analizaremos la existencia de equilibrio en mercados contingentes y en mercados financieros. Mostraremos que la existencia y la eficiencia del equilibrio pueden verse comprometidas cuando los mercados financieros son incompletos. Además, discutiremos los efectos de la innovación financiera en la eficiencia del equilibrio y las dificultades para incluir producción cuando los mercados son incompletos y los dueños de las firmas tienen expectativas heterogeneas sobre la realización de la incertidumbre futura. 
     
     [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6684324/Intro.GEI.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6684328/Mercados.Incompletos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases III](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6684334/Micro.II.Imperfecciones.GEI.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683383/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687942/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
+    
+    
+##  Elección Social
+
+- #### Elección Social Centralizada
+   Estudiaremos funciones que asocian una _preferencia social_ a cada perfil de preferencias de los agentes, llamados Funcionales de Bienestar Social. Demostraremos el Teorema de May y el Teorema de Imposibilidad de Arrow. 
 
 
 
