@@ -5,7 +5,11 @@ Estudiaremos el modelo básico de equilibrio competitivo y determinaremos condic
 
 Además, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio (Pareto eficiencia y estabilidad a desvíos de coaliciones) y analizaremos las condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo Walrasiano.     
 
-[Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683274/Micro.II.Economias.de.Intercambio.-.Equilibrio.y.Bienestar.Social.pdf)      -      [Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf) 
+[Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683274/Micro.II.Economias.de.Intercambio.-.Equilibrio.y.Bienestar.Social.pdf)   &nbsp;   -      &nbsp; [Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)  &nbsp;  -  &nbsp;
+[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683383/Ejercicios.Resueltos.Equilibrio.general.pdf)
+
+
+
 
 
 
