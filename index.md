@@ -33,6 +33,8 @@
 
 - #### Elección Social Centralizada
    Estudiaremos funciones que asocian una _preferencia social_ a cada perfil de preferencias de los agentes, llamados Funcionales de Bienestar Social. Demostraremos el Teorema de May y el Teorema de Imposibilidad de Arrow. 
+   
+   
 
 
 
