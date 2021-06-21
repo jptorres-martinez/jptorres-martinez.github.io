@@ -1,5 +1,5 @@
 ##  Teoría de Equilibrio General
-### Existencia y Propiedades de Bienestar Social del Equilibrio Walrasiano en Economías Estáticas
+### Economías Estáticas sin Producción
 
 Estudiaremos el modelo básico de equilibrio competitivo y determinaremos condiciones suficientes sobre preferencias y asignaciones iniciales para asegurar la existencia de un equilibrio Walrasiano. Demostraremos la existencia de precios de equilibrio utilizando _juegos generalizados_. Esta técnica será facilmente adaptable para demostrar la existencia de equilibrio en modelos más complejos, como aquellos que incluyen producción, impuestos, externalidades o mercados financieros. 
 
