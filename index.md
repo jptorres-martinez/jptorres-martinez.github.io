@@ -1,10 +1,27 @@
-##  Microeconomía II - Doctorado y Magíster en Economía - Universidad de Chile
+##  Equilibrio General
+
+### Existencia de Equilibrio y Propiedades de Bienestar Social en Economías Estáticas
+
+Estudiaremos el modelo básico Walrasiano y determinaremos condiciones suficientes sobre preferencias y asignaciones iniciales para asegurar la existencia de equilibrio. Demostraremos equilibrio utilizando _juegos generalizados_. Esta técnica nos permitirá adapatar la demostración de existencia de equilibrio a modelos más complejos. Por ejemplo, aquellos que incluyen producción, impuestos, externalidades o mercados financieros.   
+
+Estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio (Pareto eficiencia, estabilidad a desvíos de coaliciones). Además, analizaremos las condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo Walrasiano.  
+
+Material de apoyo para las clases [(link)](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683274/Micro.II.Economias.de.Intercambio.-.Equilibrio.y.Bienestar.Social.pdf)
+
+
+
+
+
+
+
+Modelo básico en economías de intercambio estñaticas y sin producción.
 
 You can use the [editor on GitHub](https://github.com/jptorres-martinez/jptorres-martinez.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
