@@ -56,7 +56,10 @@
    [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690363/Minicurso.Matching.pdf)&nbsp;&nbsp;-&nbsp;&nbsp;[Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690367/Apuntes.emparejamientos.bilaterales.uno-a-uno.pdf)&nbsp;&nbsp;-&nbsp;&nbsp;[Gale & Shapley (1962)](https://www.jstor.org/stable/2312726)&nbsp;&nbsp;-&nbsp;&nbsp;[Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690558/Ejercicios.matching.II.pdf)
 &nbsp;&nbsp;-&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690423/Ejercicios.Resueltos.matching.pdf)&nbsp;&nbsp;-&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690598/Teoria.de.Emparejamientos.-.Clases.2020.pdf)
 
-
+- #### Emparejamientos bilaterales muchos-a-uno 
+   Extenderemos el modelo básico de emparejamiento bilateral para permitir que los agentes de uno de los lados del mercado puedan emparejarse con varios individuos del otro lado. Además, analizaremos el problema de elección escolar, en el cual los colegios tienen prioridades por los estudiantes y varias vacantes disponibles. Veremos que desde la perspectiva de los estudiantes, y pensando en mecanismos _strategy-proof_, existe una tensión entre eficiencia y estabilidad.
+   
+   [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690363/Minicurso.Matching.pdf)&nbsp;&nbsp;-&nbsp;&nbsp;[Roth & Sotomayor (1989)](https://www.jstor.org/stable/1911052)&nbsp;&nbsp;-&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690423/Ejercicios.Resueltos.matching.pdf)&nbsp;&nbsp;-&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690598/Teoria.de.Emparejamientos.-.Clases.2020.pdf)
 
 
    
