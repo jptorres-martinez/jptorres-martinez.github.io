@@ -70,6 +70,11 @@
  
 ##  Material Complementario
 
+- #### [Microeconomic Theory](http://bibliografias.uchile.cl.uchile.idm.oclc.org/index.php/sisib/catalog/book/1485) &nbsp;&nbsp;&nbsp;&nbsp;(Link al Portal de Libros de Bibliografía Básica de la Universidad de Chile)
+
+  Autores: Andreu Mas-Collel, Michael Whinston and Jerry Green |
+  Editorial: Oxford University Press
+  
 - #### [Apuntes de Teoría de Juegos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6697062/Material.de.Apoyo.II.pdf)
 
 
@@ -79,10 +84,7 @@
  
     _Juegos con Información Incompleta._ Juegos Bayesianos. Equilibrio de Nash-Bayesiano. Aplicación: Subastas con valoraciones privadas, independientes e idénticamente distribuidas.
 
-- #### [Microeconomic Theory](http://bibliografias.uchile.cl.uchile.idm.oclc.org/index.php/sisib/catalog/book/1485) &nbsp;&nbsp;&nbsp;&nbsp;(Link al Portal de Libros de Bibliografía Básica de la Universidad de Chile)
 
-  Autores: Andreu Mas-Collel, Michael Whinston and Jerry Green |
-  Editorial: Oxford University Press
   
     
  
