@@ -68,6 +68,17 @@
   
   [Roth, Sönmez & Ünver (2004)](https://academic.oup.com/qje/article-abstract/119/2/457/1894508)&nbsp;&nbsp;-&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690423/Ejercicios.Resueltos.matching.pdf)&nbsp;&nbsp;-&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690598/Teoria.de.Emparejamientos.-.Clases.2020.pdf)&nbsp;&nbsp;-&nbsp;&nbsp;[Roth (2011)](https://www.eltrimestreeconomico.com.mx/index.php/te/article/view/35)
  
+##  Material Complementario
+
+### [Apuntes de Teoría de Juegos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6697062/Material.de.Apoyo.II.pdf)
+
+
+ _Juegos Estáticos con Información Completa._ Juegos en forma estratégica y ejemplos clásicos. Existencia de equilibrio de Nash en juegos convexos y en juegos finitos con estrategias mixtas. Existencia de equilibrio de Nash en juegos supermodulares. Unicidad y estabilidad del equilibrio de Nash.
+ 
+ _Juegos Dinámicos con Información Completa._ Juegos en forma extensiva. Existencia de Equilibrio de Nash en estrategias puras. Equilibrio Perfecto en Subjuegos con información perfecta. Equilibrio Perfecto en Subjuegos con información imperfecta. Juegos repetidos con horizonte finito e infinito.
+ 
+ _Juegos con Información Incompleta._ Juegos Bayesianos. Equilibrio de Nash-Bayesiano. Aplicación: Subastas con valoraciones privadas, independientes e idénticamente distribuidas.
+ 
 
 
    
