@@ -50,27 +50,14 @@
    
 ##  Teoría de Emparejamientos
 
+- #### Emparejamientos bilaterales uno-a-uno
+   Estudiaremos mercados en los cuales hay dos grupos de individuos y cada individuo tiene preferencias por los miembros del grupo contrario (p.ej., firmas y trabajadores, universidades y estudiantes, mercados matrimoniales). Mostraremos que siempre es posible encontrar un _emparejamiento estable_ (una distribución de la población estable a desvíos coalicionales) utilizando el Algoritmo de Aceptación Diferida. Además, demostraremos que no existen mecanismos que sean _strategy-proof_ para ambos lados del mercado y que implementen emparejamientos estables o eficientes e individualmente racionales. 
+   
+   [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690363/Minicurso.Matching.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690367/Apuntes.emparejamientos.bilaterales.uno-a-uno.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Gale & Shapley (1962)](https://www.jstor.org/stable/2312726)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690423/Ejercicios.Resueltos.matching.pdf)
+
 
 
    
    
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
