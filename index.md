@@ -69,8 +69,7 @@
  
 ##  Material Complementario
 
-- #### [Microeconomic Theory](http://bibliografias.uchile.cl.uchile.idm.oclc.org/index.php/sisib/catalog/book/1485) &nbsp;&nbsp;&nbsp;&nbsp;(Link al Portal de Libros de Bibliografía Básica, Universidad de Chile)
-
+- #### [Microeconomic Theory](http://bibliografias.uchile.cl.uchile.idm.oclc.org/index.php/sisib/catalog/book/1485) (Link al Portal de Libros de Bibliografía Básica, Universidad de Chile) <br/>
   Autores: Andreu Mas-Collel, Michael Whinston and Jerry Green <br/>
   Editorial: Oxford University Press
   
