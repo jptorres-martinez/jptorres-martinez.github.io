@@ -84,6 +84,10 @@
     _Juegos Dinámicos con Información Completa._ Juegos en forma extensiva. Existencia de equilibrio de Nash en estrategias puras. Equilibrio Perfecto en Subjuegos con información perfecta y con información imperfecta. Juegos repetidos con horizonte finito e infinito.
  
     _Juegos con Información Incompleta._ Juegos Bayesianos. Equilibrio de Nash-Bayesiano. Aplicación: Subastas con valoraciones privadas, independientes e idénticamente distribuidas.
+    
+ - #### [Advanced Mathematical Economics](http://bibliografias.uchile.cl.uchile.idm.oclc.org/index.php/sisib/catalog/book/1827)  (Link al Portal de Libros de Bibliografía Básica, Universidad de Chile) <br/>
+   Autor: Rakesh Vohra <br/>
+   Editorial: Routledge
 
 
   
