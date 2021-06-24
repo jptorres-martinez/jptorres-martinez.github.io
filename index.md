@@ -80,7 +80,7 @@
   
 - #### [Apuntes de Teoría de Juegos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6697062/Material.de.Apoyo.II.pdf)
 
-    - _Juegos Estáticos con Información Completa._ Juegos en forma estratégica. Existencia de equilibrio de Nash: juegos convexos, juegos finitos y estrategias mixtas, juegos supermodulares. Unicidad y estabilidad del equilibrio de Nash.
+    - _Juegos Estáticos con Información Completa._ Juegos en forma estratégica. Existencia de equilibrio de Nash (juegos convexos, juegos finitos con estrategias mixtas, juegos supermodulares). Unicidad y estabilidad del equilibrio de Nash.
  
     - _Juegos Dinámicos con Información Completa._ Juegos en forma extensiva. Existencia de equilibrio de Nash. Equilibrio Perfecto en Subjuegos con información perfecta y con información imperfecta. Juegos repetidos con horizonte finito e infinito.
  
