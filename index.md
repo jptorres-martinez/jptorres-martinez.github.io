@@ -72,11 +72,11 @@
  
 ##  Material Complementario
 
-- [**Microeconomic Theory**](http://bibliografias.uchile.cl.uchile.idm.oclc.org/index.php/sisib/catalog/book/1485) (Portal de Libros de Bibliografía Básica, Universidad de Chile) <br/>
+- [Microeconomic Theory](http://bibliografias.uchile.cl.uchile.idm.oclc.org/index.php/sisib/catalog/book/1485) (Portal de Libros de Bibliografía Básica) <br/>
   Autores: Andreu Mas-Collel, Michael Whinston and Jerry Green <br/>
   Editorial: Oxford University Press
   
-- [**Advanced Mathematical Economics**](http://bibliografias.uchile.cl.uchile.idm.oclc.org/index.php/sisib/catalog/book/1827)  (Portal de Libros de Bibliografía Básica, Universidad de Chile) <br/>
+- [Advanced Mathematical Economics](http://bibliografias.uchile.cl.uchile.idm.oclc.org/index.php/sisib/catalog/book/1827)  (Portal de Libros de Bibliografía Básica) <br/>
    Autor: Rakesh Vohra <br/>
    Editorial: Routledge
   
