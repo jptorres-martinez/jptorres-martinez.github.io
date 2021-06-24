@@ -82,12 +82,11 @@
   
 - #### [Apuntes de Teoría de Juegos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6697062/Material.de.Apoyo.II.pdf)
 
-
-    _Juegos Estáticos con Información Completa._ Juegos en forma estratégica y ejemplos clásicos. Existencia de equilibrio de Nash en juegos convexos, en juegos finitos con estrategias mixtas y en juegos supermodulares. Unicidad y estabilidad del equilibrio de Nash.
+    - _Juegos Estáticos con Información Completa._ Juegos en forma estratégica. Existencia de equilibrio de Nash: juegos convexos, juegos finitos y estrategias mixtas, juegos supermodulares. Unicidad y estabilidad del equilibrio de Nash.
  
-    _Juegos Dinámicos con Información Completa._ Juegos en forma extensiva. Existencia de equilibrio de Nash en estrategias puras. Equilibrio Perfecto en Subjuegos con información perfecta y con información imperfecta. Juegos repetidos con horizonte finito e infinito.
+    - _Juegos Dinámicos con Información Completa._ Juegos en forma extensiva. Existencia de equilibrio de Nash. Equilibrio Perfecto en Subjuegos con información perfecta y con información imperfecta. Juegos repetidos con horizonte finito e infinito.
  
-    _Juegos con Información Incompleta._ Juegos Bayesianos. Equilibrio de Nash-Bayesiano. Aplicación: Subastas con valoraciones privadas, independientes e idénticamente distribuidas.
+    - _Juegos con Información Incompleta._ Juegos Bayesianos. Equilibrio de Nash-Bayesiano. Aplicación: Subastas con valoraciones privadas, independientes e idénticamente distribuidas.
     
  
 
