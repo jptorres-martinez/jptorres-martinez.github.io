@@ -74,11 +74,9 @@
 
 - [Microeconomic Theory](http://bibliografias.uchile.cl.uchile.idm.oclc.org/index.php/sisib/catalog/book/1485) (_Portal de Bibliografía Básica, Universidad de Chile_) <br/>
   Autores: Andreu Mas-Collel, Michael Whinston and Jerry Green <br/>
-  Editorial: Oxford University Press
   
 - [Advanced Mathematical Economics](http://bibliografias.uchile.cl.uchile.idm.oclc.org/index.php/sisib/catalog/book/1827)  (_Portal de Bibliografía Básica, Universidad de Chile_) <br/>
    Autor: Rakesh Vohra <br/>
-   Editorial: Routledge
   
 - #### [Apuntes de Teoría de Juegos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6697062/Material.de.Apoyo.II.pdf)
 
