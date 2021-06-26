@@ -1,10 +1,15 @@
 <base target="_blank">
 
-# Table of Contents
-1. [Existencia de Equilibrio Walrasiano en Economías Estáticas sin Producción](#Existencia-de-Equilibrio-Walrasiano-en-Economías-Estáticas-sin-Producción)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+## Contenidos
+1. **Teoría de Equilibrio General**
+    - [Existencia de Equilibrio Walrasiano en Economías Estáticas sin Producción](#Existencia-de-Equilibrio-Walrasiano-en-Economías-Estáticas-sin-Producción)
+    - [Propiedades de Bienestar Social del Equilibrio Walrasiano en Economías Estáticas sin Producción](#Propiedades-de-Bienestar-Social-del-Equilibrio-Walrasiano-en-Economías-Estáticas-sin-Producción)
+2. **Elección Social y Diseño de Mecanismos**
+    - [Elección Social e Implementación en Estrategias Dominantes](#Elección-Social-e-Implementación-en-Estrategias-Dominantes)
+ 
+#
+
+#
 
 ##  Teoría de Equilibrio General 
 - #### Existencia de Equilibrio Walrasiano en Economías Estáticas sin Producción
