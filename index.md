@@ -1,6 +1,4 @@
-# Microeconomía II - Doctorado y Magíster en Economía
-
-##  Teoría de Equilibrio General
+##  Teoría de Equilibrio General 
 - #### Existencia de Equilibrio Walrasiano en Economías Estáticas sin Producción
    Estudiaremos el modelo básico de equilibrio competitivo. Utilizando _juegos generalizados_ determinaremos condiciones suficientes para asegurar la existencia de un equilibrio Walrasiano. Esta técnica será fácilmente adaptable para demostrar la existencia de equilibrio en modelos más complejos, como aquellos que incluyen producción, externalidades o mercados financieros. 
     
@@ -54,18 +52,18 @@
    
 ##  Teoría de Emparejamientos
 
-- #### Emparejamientos bilaterales uno-a-uno
+- #### Emparejamientos Bilaterales Uno-a-Uno
    Estudiaremos mercados en los cuales hay dos grupos de individuos y cada individuo tiene preferencias por los miembros del grupo contrario (p.ej., firmas y trabajadores, universidades y estudiantes, mercados matrimoniales). Utilizando el _Algoritmo de Aceptación Diferida_, demostraremos que siempre es posible encontrar un _emparejamiento estable_ (una distribución de la población estable a desvíos coalicionales). Además, demostraremos que no existen mecanismos que sean _individualmente racionales_ y _strategy-proof_ que implementen emparejamientos estables o eficientes. 
    
    [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690363/Minicurso.Matching.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690367/Apuntes.emparejamientos.bilaterales.uno-a-uno.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Gale & Shapley (1962)](https://www.jstor.org/stable/2312726)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Alcalde & Barberà (1994)](https://link.springer.com/article/10.1007/BF01215380)<br/>
    [Alcalde (1996)](https://www.sciencedirect.com/science/article/abs/pii/S0022053196900502)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690558/Ejercicios.matching.II.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690423/Ejercicios.Resueltos.matching.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690598/Teoria.de.Emparejamientos.-.Clases.2020.pdf)
 
-- #### Emparejamientos bilaterales muchos-a-uno 
+- #### Emparejamientos Bilaterales Muchos-a-Uno 
    Extenderemos el modelo básico de emparejamiento bilateral para permitir que los agentes de uno de los lados del mercado puedan emparejarse con varios individuos del otro lado. Además, analizaremos el problema de elección escolar, en el cual los colegios tienen varias vacantes disponibles y clasifican a los estudiantes utilizando _ordenes de prioridad_. Veremos que desde la perspectiva de los estudiantes, y pensando en mecanismos _strategy-proof_, es imposible compatibilizar eficiencia y estabilidad.
    
    [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690363/Minicurso.Matching.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Roth & Sotomayor (1989)](https://www.jstor.org/stable/1911052)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690423/Ejercicios.Resueltos.matching.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690598/Teoria.de.Emparejamientos.-.Clases.2020.pdf)
    
-- #### Asignación/intercambio de bienes indivisibles 
+- #### Asignación/Intercambio de Bienes Indivisibles 
   Estudiaremos mecanismos _strategy-proof_ para la asignación/intercambio de bienes indivisibles. Dependiendo del contexto, se analizarán algoritmos que implementan soluciones eficientes o coalicionalmente estables (_top trading cycles_, _serial dictatorship_, _YRMH-IGYT_). Además, estudiaremos mecanismos eficientes y _strategy-proof_ para el emparejamiento de pacientes y donadores de órganos.
   
   [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690363/Minicurso.Matching.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Shapley & Scarf (1974)](https://www.sciencedirect.com/science/article/abs/pii/0304406874900330)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Abdulkadiroğlu & Sönmez (1999)](https://www.sciencedirect.com/science/article/abs/pii/S002205319992553X)<br/>
