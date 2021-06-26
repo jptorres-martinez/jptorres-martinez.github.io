@@ -1,5 +1,7 @@
 <base target="_blank">
 
+## Results {.tabset}
+
 ##  Teoría de Equilibrio General 
 - #### Existencia de Equilibrio Walrasiano en Economías Estáticas sin Producción
    Estudiaremos el modelo básico de equilibrio competitivo. Utilizando _juegos generalizados_ determinaremos condiciones suficientes para asegurar la existencia de un equilibrio Walrasiano. Esta técnica será fácilmente adaptable para demostrar la existencia de equilibrio en modelos más complejos, como aquellos que incluyen producción, externalidades o mercados financieros. 
