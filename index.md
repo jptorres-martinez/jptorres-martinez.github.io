@@ -7,6 +7,13 @@
     - [Equilibrio en Mercados Contingentes y en Mercados Financieros](#cinco)
 2. **Elección Social y Diseño de Mecanismos**
     - [Elección Social e Implementación en Estrategias Dominantes](#seis)
+    - [Diseño de Mecanismos: Implementación en Estrategias Dominantes con Transferencias](#siete)
+    - [Diseño de Mecanismos: Implementación en Estrategias Nash](#ocho)
+3. **Teoría de Emparejamientos**
+    - [Emparejamientos Bilaterales Uno-a-Uno](#nueve)
+    - [Emparejamientos Bilaterales Muchos-a-Uno](#diez)
+    - [Asignación/Intercambio de Bienes Indivisibles](#once) 
+    
     
 
 <br/> <br/> 
@@ -52,12 +59,12 @@
    [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6688983/Micro.I.Arrow.%2B.Gibbard-Satterthwaite.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Yu (2013)](https://link.springer.com/article/10.1007/s40505-013-0016-2)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689163/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689947/Eleccion.Social.-.Clases.2020.pdf)
 
    
-- #### Diseño de Mecanismos: Implementación en Estrategias Dominantes con Transferencias 
+- #### Diseño de Mecanismos: Implementación en Estrategias Dominantes con Transferencias <a name="siete">
    Estudiaremos modelos en los cuales los agentes tienen preferencias cuasi-lineales y el planificador central puede implementar transferencias para incentivarlos a revelar información sobre sus verdaderas preferencias. Por ejemplo, analizaremos el problema de provisión de un bien público y la venta de un bien indivisible de forma eficiente. Mostraremos que estos problemas son casos particulares del mecanismo de Vickrey-Clarke-Groves, el cual caracterizaremos en detalle. 
    
    [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689755/Micro.II.Diseno.de.Mecanismos.I.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689756/Micro.II.Diseno.de.Mecanismos.II.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Müller (1997)](http://people.stern.nyu.edu/hmueller/papers/Ch1to4.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689163/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689947/Eleccion.Social.-.Clases.2020.pdf)
    
- - #### Diseño de Mecanismos: Implementación en Estrategias Nash
+ - #### Diseño de Mecanismos: Implementación en Estrategias Nash <a name="ocho">
    Estudiaremos condiciones necesarias y suficientes para implementar en estrategias Nash una regla de elección social. La _monotonía Maskin_ tendrá un rol clave en estos resultados. Cuando la implementación sea posible, se describirá explícitamente el mecanismo asociado.
    
    [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689836/Micro.II.Diseno.de.Mecanismos.III.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Müller (1997)](http://people.stern.nyu.edu/hmueller/papers/Ch1to4.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Maskin (1999)](https://www.jstor.org/stable/2566947?origin=JSTOR-pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Maskin (2012)](http://ojs.econ.uba.ar/index.php/REPBA/article/view/246)<br/>
@@ -65,18 +72,18 @@
    
 ##  Teoría de Emparejamientos
 
-- #### Emparejamientos Bilaterales Uno-a-Uno
+- #### Emparejamientos Bilaterales Uno-a-Uno <a name="nueve">
    Estudiaremos mercados en los cuales hay dos grupos de individuos y cada individuo tiene preferencias por los miembros del grupo contrario (p.ej., firmas y trabajadores, universidades y estudiantes, mercados matrimoniales). Utilizando el _Algoritmo de Aceptación Diferida_, demostraremos que siempre es posible encontrar un _emparejamiento estable_ (una distribución de la población estable a desvíos coalicionales). Además, demostraremos que no existen mecanismos que sean _individualmente racionales_ y _strategy-proof_ que implementen emparejamientos estables o eficientes. 
    
    [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690363/Minicurso.Matching.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690367/Apuntes.emparejamientos.bilaterales.uno-a-uno.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Gale & Shapley (1962)](https://www.jstor.org/stable/2312726)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Alcalde & Barberà (1994)](https://link.springer.com/article/10.1007/BF01215380)<br/>
    [Alcalde (1996)](https://www.sciencedirect.com/science/article/abs/pii/S0022053196900502)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690558/Ejercicios.matching.II.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690423/Ejercicios.Resueltos.matching.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690598/Teoria.de.Emparejamientos.-.Clases.2020.pdf)
 
-- #### Emparejamientos Bilaterales Muchos-a-Uno 
+- #### Emparejamientos Bilaterales Muchos-a-Uno <a name="diez">
    Extenderemos el modelo básico de emparejamiento bilateral para permitir que los agentes de uno de los lados del mercado puedan emparejarse con varios individuos del otro lado. Además, analizaremos el problema de elección escolar, en el cual los colegios tienen varias vacantes disponibles y clasifican a los estudiantes utilizando _ordenes de prioridad_. Veremos que desde la perspectiva de los estudiantes, y pensando en mecanismos _strategy-proof_, es imposible compatibilizar eficiencia y estabilidad.
    
    [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690363/Minicurso.Matching.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Roth & Sotomayor (1989)](https://www.jstor.org/stable/1911052)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690423/Ejercicios.Resueltos.matching.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690598/Teoria.de.Emparejamientos.-.Clases.2020.pdf)
    
-- #### Asignación/Intercambio de Bienes Indivisibles 
+- #### Asignación/Intercambio de Bienes Indivisibles <a name="once">
   Estudiaremos mecanismos _strategy-proof_ para la asignación/intercambio de bienes indivisibles. Dependiendo del contexto, se analizarán algoritmos que implementan soluciones eficientes o coalicionalmente estables (_top trading cycles_, _serial dictatorship_, _YRMH-IGYT_). Además, estudiaremos mecanismos eficientes y _strategy-proof_ para el emparejamiento de pacientes y donadores de órganos.
   
   [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690363/Minicurso.Matching.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Shapley & Scarf (1974)](https://www.sciencedirect.com/science/article/abs/pii/0304406874900330)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Abdulkadiroğlu & Sönmez (1999)](https://www.sciencedirect.com/science/article/abs/pii/S002205319992553X)<br/>
