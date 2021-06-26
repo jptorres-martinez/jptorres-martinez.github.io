@@ -1,6 +1,6 @@
 <base target="_blank">
 
-## Results {.tabset}
+# Results {.tabset}
 
 ##  Teoría de Equilibrio General 
 - #### Existencia de Equilibrio Walrasiano en Economías Estáticas sin Producción
