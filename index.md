@@ -7,8 +7,8 @@
     - [Equilibrio en Mercados Contingentes y en Mercados Financieros](#cinco)
 2. **Elección Social y Diseño de Mecanismos**
     - [Elección Social e Implementación en Estrategias Dominantes](#seis)
-    - [Diseño de Mecanismos: Implementación en Estrategias Dominantes con Transferencias](#siete)
-    - [Diseño de Mecanismos: Implementación en Estrategias Nash](#ocho)
+    - [Implementación en Estrategias Dominantes con Transferencias](#siete)
+    - [Implementación en Estrategias Nash](#ocho)
 3. **Teoría de Emparejamientos**
     - [Emparejamientos Bilaterales Uno-a-Uno](#nueve)
     - [Emparejamientos Bilaterales Muchos-a-Uno](#diez)
