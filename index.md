@@ -17,10 +17,8 @@
     
 
 <br/> <br/> <br/> 
-
-<a name="primera"> <br/>
-    
-##  Teoría de Equilibrio General 
+   
+##  Teoría de Equilibrio General <a name="primera"> 
 - #### Equilibrio Walrasiano en Economías Estáticas sin Producción <a name="uno">
    Estudiaremos el modelo básico de equilibrio competitivo. Utilizando _juegos generalizados_ determinaremos condiciones suficientes para asegurar la existencia de un equilibrio Walrasiano. Esta técnica será fácilmente adaptable para demostrar la existencia de equilibrio en modelos más complejos, como aquellos que incluyen producción, externalidades o mercados financieros. 
     
@@ -53,10 +51,8 @@
   [Hart (1975)](https://www.sciencedirect.com/science/article/pii/0022053175900289)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases III](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6684334/Micro.II.Imperfecciones.GEI.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683383/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687942/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
  
 <br/> <br/> 
-    
-<a name="segunda"> <br/>
       
-##  Elección Social y Diseño de Mecanismos 
+##  Elección Social y Diseño de Mecanismos <a name="segunda"> 
 
 - #### Elección Social e Implementación en Estrategias Dominantes <a name="seis">
    Estudiaremos la existencia de _preferencias sociales_ (relaciones de preferencia que reflejen los gustos de todos los miembros de la sociedad). Demostraremos el Teorema de May y el Teorema de Imposibilidad de Arrow. Además, discutiremos las limitaciones para implementar elecciones sociales eficientes en situaciones donde el planificador central tiene información incompleta y no puede hacer transferencias (Teorema de Gibbard-Satterthwaite).
@@ -76,10 +72,8 @@
    [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689163/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689947/Eleccion.Social.-.Clases.2020.pdf)
    
 <br/> <br/> 
-    
-<a name="tercera"> <br/>
-    
-##  Teoría de Emparejamientos  
+
+##  Teoría de Emparejamientos <a name="tercera"> 
 
 - #### Emparejamientos Bilaterales Uno-a-Uno <a name="nueve">
    Estudiaremos mercados en los cuales hay dos grupos de individuos y cada individuo tiene preferencias por los miembros del grupo contrario (p.ej., firmas y trabajadores, universidades y estudiantes, mercados matrimoniales). Utilizando el _Algoritmo de Aceptación Diferida_, demostraremos que siempre es posible encontrar un _emparejamiento estable_ (una distribución de la población estable a desvíos coalicionales). Además, demostraremos que no existen mecanismos que sean _individualmente racionales_ y _strategy-proof_ que implementen emparejamientos estables o eficientes. 
