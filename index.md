@@ -1,30 +1,32 @@
 ## Contenidos
 1. **Teoría de Equilibrio General**
-    - [Existencia de Equilibrio Walrasiano en Economías Estáticas sin Producción](#Existencia-de-Equilibrio-Walrasiano-en-Economías-Estáticas-sin-Producción)
-    - [Propiedades de Bienestar Social del Equilibrio Walrasiano en Economías Estáticas sin Producción](#Propiedades-de-Bienestar-Social-del-Equilibrio-Walrasiano-en-Economías-Estáticas-sin-Producción)
+    - [Equilibrio Walrasiano en Economías Estáticas sin Producción](#Equilibrio-Walrasiano-en-Economías-Estáticas-sin-Producción)
+    - [Propiedades de Bienestar Social del Equilibrio Walrasiano](#Propiedades-de-Bienestar-Social-del-Equilibrio-Walrasiano)
+    - [Unicidad (Local) del Equilibrio Walrasiano](#Unicidad-(Local)-del-Equilibrio-Walrasiano)
+    - [Equilibrio en Economías Estáticas con Producción](#Equilibrio-en-Economías-Estáticas-con-Producción-(Existencia,-Bienestar-Social-y-Unicidad))
 2. **Elección Social y Diseño de Mecanismos**
     - [Elección Social e Implementación en Estrategias Dominantes](#Elección-Social-e-Implementación-en-Estrategias-Dominantes)
+    
 
-<br/> <br/> <br/>
-<base target="_blank">
+<br/> <br/> 
 
 ##  Teoría de Equilibrio General 
-- #### Existencia de Equilibrio Walrasiano en Economías Estáticas sin Producción
+- #### Equilibrio Walrasiano en Economías Estáticas sin Producción
    Estudiaremos el modelo básico de equilibrio competitivo. Utilizando _juegos generalizados_ determinaremos condiciones suficientes para asegurar la existencia de un equilibrio Walrasiano. Esta técnica será fácilmente adaptable para demostrar la existencia de equilibrio en modelos más complejos, como aquellos que incluyen producción, externalidades o mercados financieros. 
     
     [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687601/Micro.II.Economias.de.Intercambio.-.Equilibrio.y.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6713014/Micro.II.Correspondencias.y.Juegos.Generalizados.version.web.pdf)
      &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683383/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687942/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
 
- - #### Propiedades de Bienestar Social del Equilibrio Walrasiano en Economías Estáticas sin Producción
+ - #### Propiedades de Bienestar Social del Equilibrio Walrasiano 
 
-   Estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Mostraremos que, bajo supuestos bastante generales, todo equilibrio es Pareto eficiente y coalicionalmente estable. Además, analizaremos las condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano.
+   En esconomías estáticas sin producción, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Mostraremos que, bajo supuestos bastante generales, todo equilibrio es Pareto eficiente y coalicionalmente estable. Además, analizaremos las condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano.
 
     [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687601/Micro.II.Economias.de.Intercambio.-.Equilibrio.y.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[II-TBS](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698436/Segundo.Teorema.del.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
 [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683383/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687942/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
 
- - #### Unicidad (Local) del Equilibrio Walrasiano en Economías Estáticas sin Producción
+ - #### Unicidad (Local) del Equilibrio Walrasiano
 
-   Estudiaremos condiciones suficientes para asegurar la unicidad del equilibrio Walrasiano. Además, determinaremos bajo que supuestos sobre preferencias y asignaciones iniciales es posible asegurar la existencia de un agente representativo. Asumiendo que las preferencias son representables por funciones de utilidad diferenciables, mostraremos que _casi siempre_ existe un número finito e impar de equilibrios. 
+   En esconomías estáticas sin producción, estudiaremos condiciones suficientes para asegurar la unicidad del equilibrio Walrasiano. Además, determinaremos bajo que supuestos sobre preferencias y asignaciones iniciales es posible asegurar la existencia de un agente representativo. Asumiendo que las preferencias son representables por funciones de utilidad diferenciables, mostraremos que _casi siempre_ existe un número finito e impar de equilibrios. 
 
    [Clases y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683965/Unicidad.de.Equilibrio.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683982/Unicidad.local.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683383/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687942/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
 
