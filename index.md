@@ -1,15 +1,15 @@
 ## Contenidos
-1. [**Teoría de Equilibrio General**](#cero)
+1. [**Teoría de Equilibrio General**](#primera)
     - [Equilibrio Walrasiano en Economías Estáticas sin Producción](#uno)
     - [Propiedades de Bienestar Social del Equilibrio Walrasiano](#dos)
     - [Unicidad (Local) del Equilibrio Walrasiano](#tres)
     - [Equilibrio en Economías Estáticas con Producción](#cuatro)
     - [Equilibrio en Mercados Contingentes y en Mercados Financieros](#cinco)
-2. **Elección Social y Diseño de Mecanismos**
+2. [**Elección Social y Diseño de Mecanismos**](#segunda)
     - [Elección Social e Implementación en Estrategias Dominantes](#seis)
     - [Implementación en Estrategias Dominantes con Transferencias](#siete)
     - [Implementación en Estrategias Nash](#ocho)
-3. **Teoría de Emparejamientos**
+3. [**Teoría de Emparejamientos**](#tercera)
     - [Emparejamientos Bilaterales Uno-a-Uno](#nueve)
     - [Emparejamientos Bilaterales Muchos-a-Uno](#diez)
     - [Asignación/Intercambio de Bienes Indivisibles](#once) 
@@ -18,7 +18,7 @@
 
 <br/> <br/> <br/> 
 
-##  Teoría de Equilibrio General <a name="cero">
+##  Teoría de Equilibrio General <a name="primera">
 - #### Equilibrio Walrasiano en Economías Estáticas sin Producción <a name="uno">
    Estudiaremos el modelo básico de equilibrio competitivo. Utilizando _juegos generalizados_ determinaremos condiciones suficientes para asegurar la existencia de un equilibrio Walrasiano. Esta técnica será fácilmente adaptable para demostrar la existencia de equilibrio en modelos más complejos, como aquellos que incluyen producción, externalidades o mercados financieros. 
     
@@ -52,7 +52,7 @@
  
 <br/> <br/> 
       
-##  Elección Social y Diseño de Mecanismos
+##  Elección Social y Diseño de Mecanismos <a name="segunda">
 
 - #### Elección Social e Implementación en Estrategias Dominantes <a name="seis">
    Estudiaremos la existencia de _preferencias sociales_ (relaciones de preferencia que reflejen los gustos de todos los miembros de la sociedad). Demostraremos el Teorema de May y el Teorema de Imposibilidad de Arrow. Además, discutiremos las limitaciones para implementar elecciones sociales eficientes en situaciones donde el planificador central tiene información incompleta y no puede hacer transferencias (Teorema de Gibbard-Satterthwaite).
@@ -73,7 +73,7 @@
    
 <br/> <br/> 
     
-##  Teoría de Emparejamientos
+##  Teoría de Emparejamientos  <a name="tercera">
 
 - #### Emparejamientos Bilaterales Uno-a-Uno <a name="nueve">
    Estudiaremos mercados en los cuales hay dos grupos de individuos y cada individuo tiene preferencias por los miembros del grupo contrario (p.ej., firmas y trabajadores, universidades y estudiantes, mercados matrimoniales). Utilizando el _Algoritmo de Aceptación Diferida_, demostraremos que siempre es posible encontrar un _emparejamiento estable_ (una distribución de la población estable a desvíos coalicionales). Además, demostraremos que no existen mecanismos que sean _individualmente racionales_ y _strategy-proof_ que implementen emparejamientos estables o eficientes. 
