@@ -1,15 +1,12 @@
-<base target="_blank">
-
 ## Contenidos
 1. **Teoría de Equilibrio General**
     - [Existencia de Equilibrio Walrasiano en Economías Estáticas sin Producción](#Existencia-de-Equilibrio-Walrasiano-en-Economías-Estáticas-sin-Producción)
     - [Propiedades de Bienestar Social del Equilibrio Walrasiano en Economías Estáticas sin Producción](#Propiedades-de-Bienestar-Social-del-Equilibrio-Walrasiano-en-Economías-Estáticas-sin-Producción)
 2. **Elección Social y Diseño de Mecanismos**
     - [Elección Social e Implementación en Estrategias Dominantes](#Elección-Social-e-Implementación-en-Estrategias-Dominantes)
- 
-#
 
-#
+<br/> <br/> <br/>
+<base target="_blank">
 
 ##  Teoría de Equilibrio General 
 - #### Existencia de Equilibrio Walrasiano en Economías Estáticas sin Producción
