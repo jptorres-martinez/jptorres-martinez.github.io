@@ -1,42 +1,43 @@
 ## Contenidos
 1. **Teoría de Equilibrio General**
-    - [Equilibrio Walrasiano en Economías Estáticas sin Producción](#Equilibrio-Walrasiano-en-Economías-Estáticas-sin-Producción)
-    - [Propiedades de Bienestar Social del Equilibrio Walrasiano](#Propiedades-de-Bienestar-Social-del-Equilibrio-Walrasiano)
-    - [Unicidad (Local) del Equilibrio Walrasiano](#Unicidad-(Local)-del-Equilibrio-Walrasiano)
-    - [Equilibrio en Economías Estáticas con Producción](#Equilibrio-en-Economías-Estáticas-con-Producción-(Existencia,-Bienestar-Social-y-Unicidad))
+    - [Equilibrio Walrasiano en Economías Estáticas sin Producción](#uno)
+    - [Propiedades de Bienestar Social del Equilibrio Walrasiano](#dos)
+    - [Unicidad (Local) del Equilibrio Walrasiano](#tres)
+    - [Equilibrio en Economías Estáticas con Producción](#cuatro)
+    - [Equilibrio en Mercados Contingentes y en Mercados Financieros](#cinco)
 2. **Elección Social y Diseño de Mecanismos**
-    - [Elección Social e Implementación en Estrategias Dominantes](#introduction)
+    - [Elección Social e Implementación en Estrategias Dominantes](#seis)
     
 
 <br/> <br/> 
 
 ##  Teoría de Equilibrio General 
-- #### Equilibrio Walrasiano en Economías Estáticas sin Producción
+- #### Equilibrio Walrasiano en Economías Estáticas sin Producción <a name="uno">
    Estudiaremos el modelo básico de equilibrio competitivo. Utilizando _juegos generalizados_ determinaremos condiciones suficientes para asegurar la existencia de un equilibrio Walrasiano. Esta técnica será fácilmente adaptable para demostrar la existencia de equilibrio en modelos más complejos, como aquellos que incluyen producción, externalidades o mercados financieros. 
     
     [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687601/Micro.II.Economias.de.Intercambio.-.Equilibrio.y.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6713014/Micro.II.Correspondencias.y.Juegos.Generalizados.version.web.pdf)
      &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683383/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687942/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
 
- - #### Propiedades de Bienestar Social del Equilibrio Walrasiano 
+ - #### Propiedades de Bienestar Social del Equilibrio Walrasiano <a name="dos">
 
    En economías estáticas sin producción, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Mostraremos que, bajo supuestos bastante generales, todo equilibrio es Pareto eficiente y coalicionalmente estable. Además, analizaremos las condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano.
 
     [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687601/Micro.II.Economias.de.Intercambio.-.Equilibrio.y.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[II-TBS](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698436/Segundo.Teorema.del.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
 [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683383/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687942/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
 
- - #### Unicidad (Local) del Equilibrio Walrasiano
+ - #### Unicidad (Local) del Equilibrio Walrasiano <a name="tres">
 
    En economías estáticas sin producción, estudiaremos condiciones suficientes para asegurar la unicidad del equilibrio Walrasiano. Además, determinaremos bajo que supuestos sobre preferencias y asignaciones iniciales es posible asegurar la existencia de un agente representativo. Asumiendo que las preferencias son representables por funciones de utilidad diferenciables, mostraremos que _casi siempre_ existe un número finito e impar de equilibrios. 
 
    [Clases y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683965/Unicidad.de.Equilibrio.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683982/Unicidad.local.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683383/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687942/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
 
-  - #### Equilibrio en Economías Estáticas con Producción (Existencia, Bienestar Social y Unicidad)
+  - #### Equilibrio en Economías Estáticas con Producción (Existencia, Bienestar Social y Unicidad) <a name="cuatro">
     Incluiremos producción en en el modelo básico de intercambio y discutiremos la existencia y la unicidad (local) de equilibrio. Mostraremos que las propiedades de bienestar social del modelo básico continuan siendo válidas al incluir producción.
     
     [Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689881/Asignaciones.alcanzables.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
 [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683383/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687942/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
     
-  - #### Tiempo e Incertidumbre: Equilibrio en Mercados Contingentes y en Mercados Financieros
+  - #### Tiempo e Incertidumbre: Equilibrio en Mercados Contingentes y en Mercados Financieros <a name="cinco">
     Extenderemos el modelo básico para incluir tiempo e incertidumbre. Analizaremos la existencia de equilibrio en mercados contingentes y en mercados financieros. Mostraremos que la existencia y la eficiencia del equilibrio pueden verse comprometidas cuando los mercados financieros son incompletos. Además, discutiremos los efectos de la innovación financiera en la eficiencia del equilibrio y las dificultades para incluir producción cuando los mercados son incompletos y los dueños de las firmas tienen expectativas heterogéneas sobre la realización de la incertidumbre futura. 
     
     [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6684324/Intro.GEI.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II &nbsp;y&nbsp; Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6684328/Mercados.Incompletos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Precios de no-arbitraje](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698533/Precios.de.no-arbitraje.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Geanakoplos (1990)](https://www.sciencedirect.com/science/article/abs/pii/0304406890900347)<br/>
@@ -45,7 +46,7 @@
     
 ##  Elección Social y Diseño de Mecanismos
 
-- #### Elección Social e Implementación en Estrategias Dominantes <a name="introduction">
+- #### Elección Social e Implementación en Estrategias Dominantes <a name="seis">
    Estudiaremos la existencia de _preferencias sociales_ (relaciones de preferencia que reflejen los gustos de todos los miembros de la sociedad). Demostraremos el Teorema de May y el Teorema de Imposibilidad de Arrow. Además, discutiremos las limitaciones para implementar elecciones sociales eficientes en situaciones donde el planificador central tiene información incompleta y no puede hacer transferencias (Teorema de Gibbard-Satterthwaite).
    
    [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6688983/Micro.I.Arrow.%2B.Gibbard-Satterthwaite.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Yu (2013)](https://link.springer.com/article/10.1007/s40505-013-0016-2)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689163/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689947/Eleccion.Social.-.Clases.2020.pdf)
