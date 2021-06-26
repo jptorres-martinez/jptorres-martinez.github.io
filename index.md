@@ -5,7 +5,7 @@
     - [Unicidad (Local) del Equilibrio Walrasiano](#Unicidad-(Local)-del-Equilibrio-Walrasiano)
     - [Equilibrio en Economías Estáticas con Producción](#Equilibrio-en-Economías-Estáticas-con-Producción-(Existencia,-Bienestar-Social-y-Unicidad))
 2. **Elección Social y Diseño de Mecanismos**
-    - [Elección Social e Implementación en Estrategias Dominantes](#Elección-Social-e-Implementación-en-Estrategias-Dominantes)
+    - [Elección Social e Implementación en Estrategias Dominantes](#introduction)
     
 
 <br/> <br/> 
@@ -19,14 +19,14 @@
 
  - #### Propiedades de Bienestar Social del Equilibrio Walrasiano 
 
-   En esconomías estáticas sin producción, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Mostraremos que, bajo supuestos bastante generales, todo equilibrio es Pareto eficiente y coalicionalmente estable. Además, analizaremos las condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano.
+   En economías estáticas sin producción, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Mostraremos que, bajo supuestos bastante generales, todo equilibrio es Pareto eficiente y coalicionalmente estable. Además, analizaremos las condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano.
 
     [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687601/Micro.II.Economias.de.Intercambio.-.Equilibrio.y.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[II-TBS](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698436/Segundo.Teorema.del.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
 [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683383/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687942/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
 
  - #### Unicidad (Local) del Equilibrio Walrasiano
 
-   En esconomías estáticas sin producción, estudiaremos condiciones suficientes para asegurar la unicidad del equilibrio Walrasiano. Además, determinaremos bajo que supuestos sobre preferencias y asignaciones iniciales es posible asegurar la existencia de un agente representativo. Asumiendo que las preferencias son representables por funciones de utilidad diferenciables, mostraremos que _casi siempre_ existe un número finito e impar de equilibrios. 
+   En economías estáticas sin producción, estudiaremos condiciones suficientes para asegurar la unicidad del equilibrio Walrasiano. Además, determinaremos bajo que supuestos sobre preferencias y asignaciones iniciales es posible asegurar la existencia de un agente representativo. Asumiendo que las preferencias son representables por funciones de utilidad diferenciables, mostraremos que _casi siempre_ existe un número finito e impar de equilibrios. 
 
    [Clases y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683965/Unicidad.de.Equilibrio.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683982/Unicidad.local.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683383/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687942/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
 
@@ -45,7 +45,7 @@
     
 ##  Elección Social y Diseño de Mecanismos
 
-- #### Elección Social e Implementación en Estrategias Dominantes
+- #### Elección Social e Implementación en Estrategias Dominantes <a name="introduction">
    Estudiaremos la existencia de _preferencias sociales_ (relaciones de preferencia que reflejen los gustos de todos los miembros de la sociedad). Demostraremos el Teorema de May y el Teorema de Imposibilidad de Arrow. Además, discutiremos las limitaciones para implementar elecciones sociales eficientes en situaciones donde el planificador central tiene información incompleta y no puede hacer transferencias (Teorema de Gibbard-Satterthwaite).
    
    [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6688983/Micro.I.Arrow.%2B.Gibbard-Satterthwaite.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Yu (2013)](https://link.springer.com/article/10.1007/s40505-013-0016-2)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689163/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689947/Eleccion.Social.-.Clases.2020.pdf)
