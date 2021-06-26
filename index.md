@@ -5,14 +5,6 @@
     [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687601/Micro.II.Economias.de.Intercambio.-.Equilibrio.y.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6713014/Micro.II.Correspondencias.y.Juegos.Generalizados.version.web.pdf)
      &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683383/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687942/Teoria.de.Equilibrio.General.-.Clases.2020.pdf) 
 
-
-    Archivo            | Descripción   
-   |-------------------|-------------|
-   | [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687601/Micro.II.Economias.de.Intercambio.-.Equilibrio.y.Bienestar.Social.pdf)  | Material    de  Apoyo para Equilibrio y Bienestar Social    | 
-   | [Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6713014/Micro.II.Correspondencias.y.Juegos.Generalizados.version.web.pdf)         | Material de Apoyo para Juegos Generalizados      | 
-   | [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683383/Ejercicios.Resueltos.Equilibrio.general.pdf) | Ejercicios sobre todos los temas de Equilibrio General | 
-
-
  - #### Propiedades de Bienestar Social del Equilibrio Walrasiano en Economías Estáticas sin Producción
 
    Estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Mostraremos que, bajo supuestos bastante generales, todo equilibrio es Pareto eficiente y coalicionalmente estable. Además, analizaremos las condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano.
