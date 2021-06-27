@@ -16,7 +16,11 @@
     
     
 
-<br/> <br/> <br/> 
+<br/> 
+
+![imagen](https://user-images.githubusercontent.com/86209927/123531211-bdc0c180-d6d0-11eb-9cd1-b36998926a49.jpg)
+
+<br/> 
    
 ##  Teoría de Equilibrio General <a name="primera"> 
 - #### Equilibrio Walrasiano en Economías Estáticas sin Producción <a name="uno">
