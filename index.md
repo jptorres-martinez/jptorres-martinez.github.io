@@ -3,14 +3,14 @@
     - [Equilibrio Walrasiano en Economías Estáticas sin Producción](#uno)
     - [Propiedades de Bienestar Social del Equilibrio Walrasiano](#dos)
     - [Unicidad (Local) del Equilibrio Walrasiano](#tres)
-    - [Equilibrio en Economías Estáticas con ProduXcción](#cuatro)
+    - [Equilibrio en Economías Estáticas con ProduYcción](#cuatro)
     - [Equilibrio en Mercados Contingentes y en Mercados Financieros](#cinco)
-
+    <br/>
 2. [**Elección Social y Diseño de Mecanismos**](#segunda)
     - [Elección Social e Implementación en Estrategias Dominantes](#seis)
     - [Implementación en Estrategias Dominantes con Transferencias](#siete)
     - [Implementación en Estrategias Nash](#ocho)
-    
+    <br/>    
 3. [**Teoría de Emparejamientos**](#tercera)
     - [Emparejamientos Bilaterales Uno-a-Uno](#nueve)
     - [Emparejamientos Bilaterales Muchos-a-Uno](#diez)
