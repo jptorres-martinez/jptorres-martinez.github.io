@@ -47,7 +47,7 @@
   - #### Equilibrio en Economías Estáticas con Producción <a name="cuatro">
     Incluiremos producción en en el modelo básico de intercambio y discutiremos la existencia y la unicidad (local) de equilibrio. Mostraremos que las propiedades de bienestar social del modelo básico continuan siendo válidas al incluir producción.
     
-    [Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689881/Asignaciones.alcanzables.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+    [Clases y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6730398/Equilibrio.general.con.produccion.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
 [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687942/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
     
   - #### Equilibrio en Mercados Contingentes y en Mercados Financieros <a name="cinco">
