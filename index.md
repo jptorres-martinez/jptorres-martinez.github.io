@@ -3,7 +3,7 @@
     - [Equilibrio Walrasiano en Economías Estáticas sin Producción](#uno)
     - [Propiedades de Bienestar Social del Equilibrio Walrasiano](#dos)
     - [Unicidad (Local) del Equilibrio Walrasiano](#tres)
-    - [Equilibrio en Economías Estáticas con ProduYcción](#cuatro)
+    - [Equilibrio en Economías Estáticas con Producción](#cuatro)
     - [Equilibrio en Mercados Contingentes y en Mercados Financieros](#cinco)
     <br/>
 2. [**Elección Social y Diseño de Mecanismos**](#segunda)
