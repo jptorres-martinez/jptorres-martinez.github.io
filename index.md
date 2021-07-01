@@ -28,8 +28,8 @@
     
 <a name="uno"> 
     
-- **Equilibrio Walrasiano en Economías Estáticas sin Producción** <br/> 
-  Estudiaremos el modelo básico de equilibrio competitivo. Utilizando _juegos generalizados_ determinaremos condiciones suficientes para asegurar la existencia de un equilibrio Walrasiano. Esta técnica será fácilmente adaptable para demostrar la existencia de equilibrio en modelos más complejos, como aquellos que incluyen producción, externalidades o mercados financieros. 
+- #### Equilibrio Walrasiano en Economías Estáticas sin Producción
+    Estudiaremos el modelo básico de equilibrio competitivo. Utilizando _juegos generalizados_ determinaremos condiciones suficientes para asegurar la existencia de un equilibrio Walrasiano. Esta técnica será fácilmente adaptable para demostrar la existencia de equilibrio en modelos más complejos, como aquellos que incluyen producción, externalidades o mercados financieros. 
     
     [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6722023/Micro.II.Economias.de.Intercambio.-.Equilibrio.pdf)
 &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6713014/Micro.II.Correspondencias.y.Juegos.Generalizados.version.web.pdf)
