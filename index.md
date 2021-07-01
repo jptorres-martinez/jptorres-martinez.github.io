@@ -26,7 +26,7 @@
    
 ##  Teoría de Equilibrio General  
     
-<br/> <a name="uno"> 
+<a name="uno"> 
     
 - #### Equilibrio Walrasiano en Economías Estáticas sin Producción 
    Estudiaremos el modelo básico de equilibrio competitivo. Utilizando _juegos generalizados_ determinaremos condiciones suficientes para asegurar la existencia de un equilibrio Walrasiano. Esta técnica será fácilmente adaptable para demostrar la existencia de equilibrio en modelos más complejos, como aquellos que incluyen producción, externalidades o mercados financieros. 
@@ -35,7 +35,7 @@
 &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6713014/Micro.II.Correspondencias.y.Juegos.Generalizados.version.web.pdf)
      &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687942/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
     
-<br/> <a name="dos">
+<a name="dos">
 
  - #### Propiedades de Bienestar Social del Equilibrio Walrasiano 
 
@@ -45,7 +45,7 @@
 &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[II-TBS](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698436/Segundo.Teorema.del.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
 [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687942/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
 
-<br/> <a name="tres">
+<a name="tres">
     
  - #### Unicidad (Local) del Equilibrio Walrasiano 
 
@@ -53,7 +53,7 @@
 
    [Clases y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683965/Unicidad.de.Equilibrio.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683982/Unicidad.local.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687942/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
     
-<br/>  <a name="cuatro">   
+<a name="cuatro">   
 
   - #### Equilibrio en Economías Estáticas con Producción 
     Incluiremos producción en en el modelo básico de intercambio y discutiremos la existencia y la unicidad (local) de equilibrio. Mostraremos que las propiedades de bienestar social del modelo básico continuan siendo válidas al incluir producción.
@@ -61,7 +61,7 @@
     [Clases y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6730440/Equilibrio.general.con.produccion.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
 [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6687942/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
     
-<br/>   <a name="cinco">  
+<a name="cinco">  
     
   - #### Equilibrio en Mercados Contingentes y en Mercados Financieros 
     Extenderemos el modelo básico para incluir tiempo e incertidumbre. Analizaremos la existencia de equilibrio en mercados contingentes y en mercados financieros. Mostraremos que la existencia y la eficiencia del equilibrio pueden verse comprometidas cuando los mercados financieros son incompletos. Además, discutiremos los efectos de la innovación financiera en la eficiencia del equilibrio y las dificultades para incluir producción cuando los mercados son incompletos y los dueños de las firmas tienen expectativas heterogéneas sobre la realización de la incertidumbre futura. 
