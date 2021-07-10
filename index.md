@@ -21,13 +21,13 @@
 
 [![imagen](https://user-images.githubusercontent.com/86209927/123531211-bdc0c180-d6d0-11eb-9cd1-b36998926a49.jpg)](https://econ.uchile.cl/es/academico/jutorres)
 
-<br/> <br/> 
+<br/> 
     
  :point_right:&nbsp;&nbsp;&nbsp;&nbsp;[**PROGRAMACIÓN 2021**](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6795991/Programacion.Microeconomia.II.-.JPTM.-.2021.pdf)
 &nbsp;&nbsp;:point_left:   
 
 
-<br/> <a name="primera">
+<a name="primera">
    
 ##  Teoría de Equilibrio General  
     
