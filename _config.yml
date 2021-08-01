@@ -1,5 +1,4 @@
-theme: jekyll-theme-cayman
-title: Microeconomía  
+theme: jekyll-theme-cayman 
 description: Doctorado y Magíster en Economía -  Universidad de Chile <br/> Profesor:&nbsp;&nbsp;Juan Pablo Torres-Martínez
 plugins:
   - jemoji
