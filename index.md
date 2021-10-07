@@ -81,7 +81,8 @@
 - #### Elección Social e Implementación en Estrategias Dominantes <a name="seis">
    Estudiaremos la existencia de _preferencias sociales_ (relaciones de preferencia que reflejen los gustos de todos los miembros de la sociedad). Demostraremos el Teorema de May y el Teorema de Imposibilidad de Arrow. Además, discutiremos las limitaciones para implementar elecciones sociales en situaciones donde el planificador central tiene información incompleta y no puede hacer transferencias (Teorema de Gibbard-Satterthwaite).
    
-   > [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6688983/Micro.I.Arrow.%2B.Gibbard-Satterthwaite.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Arrow (1950)](https://www.jstor.org/stable/1828886)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Yu (2013)](https://link.springer.com/article/10.1007/s40505-013-0016-2)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Serrano (2004)](https://www.jstor.org/stable/20453528)<br/>
+   > [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/7303403/Micro.I.Arrow.%2B.Gibbard-Satterthwaite.pdf)
+  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Arrow (1950)](https://www.jstor.org/stable/1828886)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Yu (2013)](https://link.springer.com/article/10.1007/s40505-013-0016-2)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Serrano (2004)](https://www.jstor.org/stable/20453528)<br/>
     [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729927/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6756525/Eleccion.Social.-.Clases.2020.pdf)
 
 
