@@ -36,7 +36,6 @@
      > [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6722023/Micro.II.Economias.de.Intercambio.-.Equilibrio.pdf)
 &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6827099/Micro.II.Correspondencias.y.Juegos.Generalizados.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Nash (1950)](https://www.pnas.org/content/36/1/48)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)    <br/> 
     [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
-)&nbsp;&nbsp;:point_left:
 
     
 <a name="dos">
