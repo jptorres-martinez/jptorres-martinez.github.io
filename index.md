@@ -35,7 +35,8 @@
        
      > [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6722023/Micro.II.Economias.de.Intercambio.-.Equilibrio.pdf)
 &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6827099/Micro.II.Correspondencias.y.Juegos.Generalizados.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Nash (1950)](https://www.pnas.org/content/36/1/48)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)    <br/> 
-    [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6754965/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)&nbsp;&nbsp;:point_left:
+    [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
+)&nbsp;&nbsp;:point_left:
 
     
 <a name="dos">
@@ -45,7 +46,7 @@
 
     > [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6722025/Micro.II.Economias.de.Intercambio.-.Bienestar.pdf)
 &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[II-TBS](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698436/Segundo.Teorema.del.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
-[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6754965/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
+[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
 
 <a name="tres">
     
@@ -53,7 +54,7 @@
 
     En economías estáticas sin producción, estudiaremos condiciones suficientes para asegurar la unicidad del equilibrio Walrasiano. Además, determinaremos bajo que supuestos sobre preferencias y asignaciones iniciales es posible asegurar la existencia de un agente representativo. Asumiendo que las preferencias son representables por funciones de utilidad diferenciables, mostraremos que _casi siempre_ existe un número finito e impar de equilibrios. 
 
-   > [Clases y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6843406/Unicidad.de.Equilibrio.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6826631/Unicidad.local.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6754965/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
+   > [Clases y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6843406/Unicidad.de.Equilibrio.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6826631/Unicidad.local.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
     
 <a name="cuatro">   
 
@@ -61,7 +62,7 @@
      Incluiremos producción en el modelo básico de intercambio y discutiremos la existencia y la unicidad (local) de equilibrio. Además, mostraremos que las propiedades de bienestar social del modelo básico continuan siendo válidas al incluir producción.
     
     > [Clases y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6730440/Equilibrio.general.con.produccion.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
-[Arrow & Debreu (1954)](https://www.jstor.org/stable/1907353)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6754965/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
+[Arrow & Debreu (1954)](https://www.jstor.org/stable/1907353)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
     
 <a name="cinco">  
     
@@ -69,7 +70,7 @@
      Extenderemos el modelo básico para incluir tiempo e incertidumbre. Analizaremos la existencia de equilibrio en mercados contingentes y en mercados financieros. Mostraremos que la existencia y la eficiencia del equilibrio pueden verse comprometidas cuando los mercados financieros son incompletos. Además, discutiremos los efectos de la innovación financiera en la eficiencia del equilibrio y las dificultades para incluir producción cuando los mercados son incompletos y los dueños de una firma tienen expectativas heterogéneas sobre la realización de la incertidumbre. 
     
     > [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6684324/Intro.GEI.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II &nbsp;y&nbsp; Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6843478/Mercados.Incompletos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Precios de no-arbitraje](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698533/Precios.de.no-arbitraje.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Geanakoplos (1990)](https://www.sciencedirect.com/science/article/abs/pii/0304406890900347)<br/>
-  [Hart (1975)](https://www.sciencedirect.com/science/article/pii/0022053175900289)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases III](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6843547/Micro.II.Imperfecciones.GEI.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6754965/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
+  [Hart (1975)](https://www.sciencedirect.com/science/article/pii/0022053175900289)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases III](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6843547/Micro.II.Imperfecciones.GEI.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)
  
 <br/> <br/> <a name="segunda">
       
