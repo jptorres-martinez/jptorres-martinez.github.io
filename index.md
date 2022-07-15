@@ -128,6 +128,9 @@
   
 - [Advanced Mathematical Economics](http://bibliografias.uchile.cl.uchile.idm.oclc.org/index.php/sisib/catalog/book/1827)  (_Portal de Bibliografía Básica, Universidad de Chile_) <br/>
    Autor: Rakesh Vohra <br/>
+
+- [Advanced Microeconomic Theory](http://bibliografias.uchile.cl.uchile.idm.oclc.org/index.php/sisib/catalog/book/3125) (_Portal de Bibliografía Básica, Universidad de Chile_) <br/>
+  Autores: Geoffrey Jehle and Philip Reny <br/>
   
 - #### [Apuntes de Teoría de Juegos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6697062/Material.de.Apoyo.II.pdf)
 
