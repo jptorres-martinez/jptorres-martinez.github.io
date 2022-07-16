@@ -48,7 +48,8 @@
 
     > [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6722025/Micro.II.Economias.de.Intercambio.-.Bienestar.pdf)
 &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[II-TBS](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698436/Segundo.Teorema.del.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
-[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
+[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)<br/> 
+    [Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
 
 <a name="tres">
     
@@ -64,7 +65,8 @@
      Incluiremos producción en el modelo básico de intercambio y discutiremos la existencia y la unicidad (local) de equilibrio. Además, mostraremos que las propiedades de bienestar social del modelo básico continuan siendo válidas al incluir producción.
     
     > [Clases y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6730440/Equilibrio.general.con.produccion.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
-[Arrow & Debreu (1954)](https://www.jstor.org/stable/1907353)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
+[Arrow & Debreu (1954)](https://www.jstor.org/stable/1907353)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)<br/> 
+    [Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
     
 <a name="cinco">  
     
@@ -91,7 +93,8 @@
    Estudiaremos modelos en los cuales los agentes tienen preferencias cuasi-lineales y el planificador central puede implementar transferencias para incentivarlos a revelar información sobre sus verdaderas preferencias. Por ejemplo, analizaremos el problema de provisión de un bien público y la venta de un bien indivisible de forma eficiente. Mostraremos que los mecanismos _strategy-proof_ que resuelven esos problemas son casos particulares del mecanismo de Vickrey-Clarke-Groves, el cual caracterizaremos en detalle. 
    
    > [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6843588/Micro.II.Diseno.de.Mecanismos.I.pdf)
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689756/Micro.II.Diseno.de.Mecanismos.II.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Müller (1997)](http://people.stern.nyu.edu/hmueller/papers/Ch1to4.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729927/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125148/Eleccion.Social.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
+&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689756/Micro.II.Diseno.de.Mecanismos.II.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Müller (1997)](http://people.stern.nyu.edu/hmueller/papers/Ch1to4.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729927/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)<br/> 
+    [Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125148/Eleccion.Social.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
    
  - #### Implementación en Estrategias Nash <a name="ocho">
    Estudiaremos condiciones necesarias y suficientes para implementar en estrategias Nash una regla de elección social. La _monotonía Maskin_ tendrá un rol clave en estos resultados. Cuando la implementación sea posible, se describirá explícitamente el mecanismo asociado.
@@ -120,7 +123,8 @@
   Estudiaremos mecanismos _strategy-proof_ para la asignación/intercambio de bienes indivisibles. Dependiendo del contexto, se analizarán algoritmos que implementan soluciones eficientes o coalicionalmente estables (_top trading cycles_, _serial dictatorship_, _YRMH-IGYT_). Además, estudiaremos mecanismos eficientes y _strategy-proof_ para el emparejamiento de pacientes y donadores de órganos.
   
   > [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/7516677/Housing.markets.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Shapley & Scarf (1974)](https://www.sciencedirect.com/science/article/abs/pii/0304406874900330)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Abdulkadiroğlu & Sönmez (1999)](https://www.sciencedirect.com/science/article/abs/pii/S002205319992553X)<br/>
-  [Roth, Sönmez & Ünver (2004)](https://academic.oup.com/qje/article-abstract/119/2/457/1894508)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729934/Ejercicios.Resueltos.matching.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125151/Teoria.de.Emparejamientos.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Roth (2011)](https://www.eltrimestreeconomico.com.mx/index.php/te/article/view/35)
+  [Roth, Sönmez & Ünver (2004)](https://academic.oup.com/qje/article-abstract/119/2/457/1894508)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729934/Ejercicios.Resueltos.matching.pdf)<br/> 
+    [Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125151/Teoria.de.Emparejamientos.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Roth (2011)](https://www.eltrimestreeconomico.com.mx/index.php/te/article/view/35)
  
 <br/> <br/> 
     
