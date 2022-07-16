@@ -1,4 +1,6 @@
-## Microeconomía II
+## Microeconomía II [CALENDARIO DE CLASES 2022](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9124854/Programacion.Microeconomia.II.-.JPTM.-.2022.pdf)
+
+
 - [**Teoría de Equilibrio General**](#primera)
     - [Equilibrio Walrasiano en Economías Estáticas sin Producción](#uno)
     - [Propiedades de Bienestar Social del Equilibrio Walrasiano](#dos)
