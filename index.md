@@ -23,6 +23,10 @@
 
 <br/> 
 
+-[CALENDARIO DE CLASES 2022](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9124854/Programacion.Microeconomia.II.-.JPTM.-.2022.pdf)
+
+
+<br/> 
 
 <a name="primera">
    
