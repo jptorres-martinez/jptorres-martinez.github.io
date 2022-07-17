@@ -128,6 +128,7 @@
   > [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/7516677/Housing.markets.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Shapley & Scarf (1974)](https://www.sciencedirect.com/science/article/abs/pii/0304406874900330)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Abdulkadiroğlu & Sönmez (1999)](https://www.sciencedirect.com/science/article/abs/pii/S002205319992553X)<br/>
   [Roth, Sönmez & Ünver (2004)](https://academic.oup.com/qje/article-abstract/119/2/457/1894508)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Roth (2011)](https://www.eltrimestreeconomico.com.mx/index.php/te/article/view/35)<br/> 
     [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729934/Ejercicios.Resueltos.matching.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125151/Teoria.de.Emparejamientos.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
+
 <br/> <br/> 
     
 ##  Material Complementario
