@@ -38,7 +38,7 @@
        
      > [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6722023/Micro.II.Economias.de.Intercambio.-.Equilibrio.pdf)
 &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6827099/Micro.II.Correspondencias.y.Juegos.Generalizados.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Nash (1950)](https://www.pnas.org/content/36/1/48)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)    <br/> 
-    [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
+    [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
 
     
 <a name="dos">
@@ -46,10 +46,10 @@
  - #### Propiedades de Bienestar Social del Equilibrio Walrasiano 
      En economías estáticas sin producción, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Mostraremos que, bajo supuestos bastante generales, todo equilibrio es Pareto eficiente y coalicionalmente estable. Además, analizaremos las condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano.
 
-    > [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6722025/Micro.II.Economias.de.Intercambio.-.Bienestar.pdf)
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[II-TBS](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698436/Segundo.Teorema.del.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+    > [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6722025/Micro.II.Economias.de.Intercambio.-.Bienestar.pdf)
+&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698436/Segundo.Teorema.del.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
 [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)<br/> 
-    [Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
+    [Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
 
 <a name="tres">
     
@@ -57,7 +57,8 @@
 
     En economías estáticas sin producción, estudiaremos condiciones suficientes para asegurar la unicidad del equilibrio Walrasiano. Además, determinaremos bajo que supuestos sobre preferencias y asignaciones iniciales es posible asegurar la existencia de un agente representativo. Asumiendo que las preferencias son representables por funciones de utilidad diferenciables, mostraremos que _casi siempre_ existe un número finito e impar de equilibrios. 
 
-   > [Clases y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6843406/Unicidad.de.Equilibrio.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6826631/Unicidad.local.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
+   > [Clases y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6843406/Unicidad.de.Equilibrio.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6826631/Unicidad.local.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)<br/>
+    [Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
     
 <a name="cuatro">   
 
@@ -66,7 +67,7 @@
     
     > [Clases y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6730440/Equilibrio.general.con.produccion.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
 [Arrow & Debreu (1954)](https://www.jstor.org/stable/1907353)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)<br/> 
-    [Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
+    [Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
     
 <a name="cinco">  
     
@@ -85,7 +86,7 @@
    
    > [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/7303403/Micro.I.Arrow.%2B.Gibbard-Satterthwaite.pdf)
   &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Arrow (1950)](https://www.jstor.org/stable/1828886)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Yu (2013)](https://link.springer.com/article/10.1007/s40505-013-0016-2)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Serrano (2004)](https://www.jstor.org/stable/20453528)<br/>
-    [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729927/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125148/Eleccion.Social.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
+    [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729927/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125148/Eleccion.Social.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
 
 
    
@@ -94,13 +95,13 @@
    
    > [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6843588/Micro.II.Diseno.de.Mecanismos.I.pdf)
 &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689756/Micro.II.Diseno.de.Mecanismos.II.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Müller (1997)](http://people.stern.nyu.edu/hmueller/papers/Ch1to4.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729927/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)<br/> 
-    [Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125148/Eleccion.Social.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
+    [Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125148/Eleccion.Social.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
    
  - #### Implementación en Estrategias Nash <a name="ocho">
    Estudiaremos condiciones necesarias y suficientes para implementar en estrategias Nash una regla de elección social. La _monotonía Maskin_ tendrá un rol clave en estos resultados. Cuando la implementación sea posible, se describirá explícitamente el mecanismo asociado.
    
-   >[Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689836/Micro.II.Diseno.de.Mecanismos.III.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Müller (1997)](http://people.stern.nyu.edu/hmueller/papers/Ch1to4.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Maskin (1999)](https://www.jstor.org/stable/2566947?origin=JSTOR-pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Maskin (2012)](http://ojs.econ.uba.ar/index.php/REPBA/article/view/246)<br/>
-   [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729927/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125148/Eleccion.Social.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[_La Crema_](https://www.journals.uchicago.edu/doi/abs/10.1086/367680)
+   >[Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6689836/Micro.II.Diseno.de.Mecanismos.III.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Müller (1997)](http://people.stern.nyu.edu/hmueller/papers/Ch1to4.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Maskin (1999)](https://www.jstor.org/stable/2566947?origin=JSTOR-pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Maskin (2012)](http://ojs.econ.uba.ar/index.php/REPBA/article/view/246)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729927/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)<br/>  
+    [Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125148/Eleccion.Social.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[_La Crema_](https://www.journals.uchicago.edu/doi/abs/10.1086/367680)
    
 <br/> <br/> <a name="tercera"> 
 
@@ -109,8 +110,9 @@
 - #### Emparejamientos Bilaterales Uno-a-Uno <a name="nueve">
    Estudiaremos mercados en los cuales hay dos grupos de individuos y cada individuo tiene preferencias por los miembros del grupo contrario (p.ej., firmas y trabajadores, mercados matrimoniales). Utilizando el _Algoritmo de Aceptación Diferida_, demostraremos que siempre es posible encontrar un _emparejamiento estable_ (una distribución de la población estable a desvíos coalicionales). Caracterizaremos el conjuntos de emparejamientos estables y mostraremos que, en ausencia de restricciones sobre las preferencias, no existen mecanismos que sean _individualmente racionales_ y _strategy-proof_ que implementen emparejamientos estables o eficientes. 
    
-   > [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6826813/Minicurso.Matching.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6826784/Matching.theory.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Gale & Shapley (1962)](https://www.jstor.org/stable/2312726)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Alcalde & Barberà (1994)](https://link.springer.com/article/10.1007/BF01215380)<br/>
-   [Alcalde (1996)](https://www.sciencedirect.com/science/article/abs/pii/S0022053196900502)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690558/Ejercicios.matching.II.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729934/Ejercicios.Resueltos.matching.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125151/Teoria.de.Emparejamientos.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
+   > [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6826813/Minicurso.Matching.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6826784/Matching.theory.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Gale & Shapley (1962)](https://www.jstor.org/stable/2312726)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Alcalde & Barberà (1994)](https://link.springer.com/article/10.1007/BF01215380)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+   [Alcalde (1996)](https://www.sciencedirect.com/science/article/abs/pii/S0022053196900502)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690558/Ejercicios.matching.II.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729934/Ejercicios.Resueltos.matching.pdf)<br/>
+    [Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125151/Teoria.de.Emparejamientos.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
 
 
 - #### Emparejamientos Bilaterales Muchos-a-Uno <a name="diez">
