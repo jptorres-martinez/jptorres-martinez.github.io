@@ -87,8 +87,9 @@
 - #### Elección Social e Implementación en Estrategias Dominantes <a name="seis">
    Estudiaremos la existencia de _preferencias sociales_ (relaciones de preferencia que reflejen los gustos de todos los miembros de la sociedad). Demostraremos el Teorema de May y el Teorema de Imposibilidad de Arrow. Además, discutiremos las limitaciones para implementar elecciones sociales en situaciones donde el planificador central tiene información incompleta y no puede hacer transferencias (Teorema de Gibbard-Satterthwaite).
    
-   > [Clases](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9137296/Micro.I.Arrow.%2B.Gibbard-Satterthwaite.pdf)
-  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Arrow (1950)](https://www.jstor.org/stable/1828886)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Serrano (2004)](https://www.jstor.org/stable/20453528)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Yu (2013)](https://link.springer.com/article/10.1007/s40505-013-0016-2)<br/>
+   > [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9137296/Micro.I.Arrow.%2B.Gibbard-Satterthwaite.pdf)
+  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9137299/Micro.II.Diseno.de.Mecanismos.I.pdf)
+&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Arrow (1950)](https://www.jstor.org/stable/1828886)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Serrano (2004)](https://www.jstor.org/stable/20453528)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Yu (2013)](https://link.springer.com/article/10.1007/s40505-013-0016-2)<br/>
     [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729927/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125148/Eleccion.Social.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
 
 
@@ -96,8 +97,7 @@
 - #### Implementación en Estrategias Dominantes con Transferencias <a name="siete">
    Estudiaremos modelos en los cuales los agentes tienen preferencias cuasi-lineales y el planificador central puede implementar transferencias para incentivarlos a revelar información sobre sus verdaderas preferencias. Por ejemplo, analizaremos el problema de provisión de un bien público y la venta de un bien indivisible de forma eficiente. Mostraremos que los mecanismos _strategy-proof_ que resuelven esos problemas son casos particulares del mecanismo de Vickrey-Clarke-Groves, el cual caracterizaremos en detalle. 
    
-   > [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9137299/Micro.II.Diseno.de.Mecanismos.I.pdf)
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9137310/Micro.II.Diseno.de.Mecanismos.II.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Müller (1997)](http://people.stern.nyu.edu/hmueller/papers/Ch1to4.pdf)<br/> 
+   > [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9137310/Micro.II.Diseno.de.Mecanismos.II.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Müller (1997)](http://people.stern.nyu.edu/hmueller/papers/Ch1to4.pdf)<br/> 
     [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729927/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125148/Eleccion.Social.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
    
  - #### Implementación en Estrategias Nash <a name="ocho">
