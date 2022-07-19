@@ -18,7 +18,7 @@
     - [Asignación/Intercambio de Bienes Indivisibles](#once) 
     <br/> &nbsp;
    
-:point_right: :point_right: [**CALENDARIO DE CLASES 2022**](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9126248/Programacion.Microeconomia.II.-.JPTM.-.2022.pdf)
+:point_right:&nbsp; :calendar: [**CALENDARIO DE CLASES 2022**](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9126248/Programacion.Microeconomia.II.-.JPTM.-.2022.pdf)
  
 
 <br/> 
