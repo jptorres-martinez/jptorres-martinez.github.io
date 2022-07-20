@@ -1,4 +1,4 @@
-## Microeconomía II 
+## Contenidos 
 
 - [**Teoría de Equilibrio General**](#primera)
     - [Equilibrio Walrasiano en Economías Estáticas sin Producción](#uno)
