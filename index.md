@@ -1,5 +1,3 @@
-## Microeconomía II 
-
 - [**Teoría de Equilibrio General**](#primera)
     - [Equilibrio Walrasiano en Economías Estáticas sin Producción](#uno)
     - [Propiedades de Bienestar Social del Equilibrio Walrasiano](#dos)
