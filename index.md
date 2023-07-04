@@ -18,8 +18,9 @@
     - [Asignación/Intercambio de Bienes Indivisibles](#once) 
     <br/> &nbsp;
    
-### &nbsp;&nbsp; :spiral_calendar: &nbsp; [**<code style="color : red">PROGRAMACIÓN DE ACTIVIDADES 2023</code>**](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/11941808/Programacion.Microeconomia.II.-.JPTM.-.2023.pdf)
- 
+## &nbsp;&nbsp; :spiral_calendar: &nbsp; [**<code style="color : red">PROGRAMCIÓN DE ACTIVIDADES 2023</code>**](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/11941808/Programacion.Microeconomia.II.-.JPTM.-.2023.pdf)
+
+<br/> 
 
 <br/> 
 
