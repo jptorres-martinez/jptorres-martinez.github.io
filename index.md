@@ -132,16 +132,16 @@
     
 ##  Material Complementario
 
-- [Microeconomic Theory](http://bibliografias.uchile.cl.uchile.idm.oclc.org/index.php/sisib/catalog/book/1485) (_Portal de Bibliografía Básica, Universidad de Chile_) <br/>
+- [Microeconomic Theory](http://bibliografias.uchile.cl.us1.proxy.openathens.net/index.php/sisib/catalog/book/1485) (_Portal de Bibliografía Básica, Universidad de Chile_) <br/>
   Autores: Andreu Mas-Collel, Michael Whinston and Jerry Green <br/>
   
-- [Advanced Mathematical Economics](http://bibliografias.uchile.cl.uchile.idm.oclc.org/index.php/sisib/catalog/book/1827)  (_Portal de Bibliografía Básica, Universidad de Chile_) <br/>
+- [Advanced Mathematical Economics](http://bibliografias.uchile.cl.us1.proxy.openathens.net/index.php/sisib/catalog/book/1827)  (_Portal de Bibliografía Básica, Universidad de Chile_) <br/>
    Autor: Rakesh Vohra <br/>
 
-- [Advanced Microeconomic Theory](http://bibliografias.uchile.cl.uchile.idm.oclc.org/index.php/sisib/catalog/book/3125) (_Portal de Bibliografía Básica, Universidad de Chile_) <br/>
+- [Advanced Microeconomic Theory](http://bibliografias.uchile.cl.us1.proxy.openathens.net/index.php/sisib/catalog/book/3125) (_Portal de Bibliografía Básica, Universidad de Chile_) <br/>
   Autores: Geoffrey Jehle and Philip Reny <br/>
     
-- [Matemáticas para el Análisis Económico](http://bibliografias.uchile.cl.uchile.idm.oclc.org/index.php/sisib/catalog/book/2166) (_Portal de Bibliografía Básica, Universidad de Chile_) <br/>
+- [Matemáticas para el Análisis Económico](http://bibliografias.uchile.cl.us1.proxy.openathens.net/2166) (_Portal de Bibliografía Básica, Universidad de Chile_) <br/>
   Autores: Knut Sydsaeter, Peter Hammond y Andrés Carvajal
   
 - #### [Apuntes de Teoría de Juegos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6697062/Material.de.Apoyo.II.pdf)
