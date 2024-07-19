@@ -1,4 +1,4 @@
-## Microeconomía II
+## Microeconomía II (ENECO620)
 
 - [**Teoría de Equilibrio General**](#primera)
     - [Equilibrio Walrasiano en Economías Estáticas sin Producción](#uno)
