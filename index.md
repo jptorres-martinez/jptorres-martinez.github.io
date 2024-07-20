@@ -3,9 +3,8 @@
 - [**Teoría de Equilibrio General**](#primera)
     - [Equilibrio Walrasiano en Economías Estáticas sin Producción](#uno)
     - [Propiedades de Bienestar Social del Equilibrio Walrasiano](#dos)
-    - [Unicidad (Local) del Equilibrio Walrasiano](#tres)
-    - [Equilibrio en Economías Estáticas con Producción](#cuatro)
-    - [Equilibrio en Mercados Contingentes y en Mercados Financieros](#cinco)
+    - [Equilibrio en Economías Estáticas con Producción](#tres)
+    - [Equilibrio en Mercados Contingentes y en Mercados Financieros](#cuatro)
     <br/> &nbsp;
  - [**Elección Social y Diseño de Mecanismos**](#segunda)
     - [Elección Social e Implementación en Estrategias Dominantes](#seis)
