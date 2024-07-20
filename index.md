@@ -17,7 +17,7 @@
     - [Asignación/Intercambio de Bienes Indivisibles](#once) 
     <br/> &nbsp;
    
-### &nbsp;&nbsp; :spiral_calendar: &nbsp;[<code style="color : red"> ## PROGRAMA DE ACTIVIDADES 2024</code>](https://github.com/user-attachments/files/16316992/Programacion.Microeconomia.II.-.JPTM.-.2024.pdf)
+### &nbsp;&nbsp; :spiral_calendar: &nbsp;[PROGRAMA DE ACTIVIDADES 2024](https://github.com/user-attachments/files/16316992/Programacion.Microeconomia.II.-.JPTM.-.2024.pdf)
 
 
 <br/> 
