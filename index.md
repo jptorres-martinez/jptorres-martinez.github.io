@@ -43,7 +43,7 @@
 <a name="dos">
 
  - #### Propiedades de Bienestar Social del Equilibrio Walrasiano 
-     En economías estáticas sin producción, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Mostraremos que, bajo supuestos bastante generales, todo equilibrio es Pareto eficiente y coalicionalmente estable. Además, analizaremos las condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano.
+     En economías estáticas sin producción, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Bajo supuestos bastante generales, mostraremos que todo equilibrio es Pareto eficiente y coalicionalmente estable. Además, analizaremos las condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano.
 
     > [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9146376/Micro.II.Economias.de.Intercambio.-.Bienestar.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698436/Segundo.Teorema.del.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)<br/> 
 [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
@@ -52,7 +52,7 @@
 <a name="tres">   
 
   - #### Equilibrio en Economías Estáticas con Producción 
-     Incluiremos producción en el modelo básico de intercambio y discutiremos la existencia y la unicidad (local) de equilibrio. Además, mostraremos que las propiedades de bienestar social del modelo básico continuan siendo válidas al incluir producción.
+     Incluiremos producción en el modelo básico de intercambio y discutiremos la existencia de equilibrio. Además, mostraremos que las propiedades de bienestar social del modelo básico continuan siendo válidas al incluir producción.
     
     > [Clases y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9146511/Equilibrio.general.con.produccion.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
 [Arrow & Debreu (1954)](https://www.jstor.org/stable/1907353)<br/>
@@ -140,7 +140,7 @@
  
     - _Juegos con Información Incompleta._ Juegos Bayesianos. Equilibrio de Nash-Bayesiano. Aplicación: Subastas con valoraciones privadas, independientes e idénticamente distribuidas.
 
-- #### [Unicidad de Equilibrio + Agentes Representativos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6843406/Unicidad.de.Equilibrio.pdf)
+- #### [Apuntes sobre Unicidad de Equilibrio y Agentes Representativos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6843406/Unicidad.de.Equilibrio.pdf)
 
     - Se discuten condiciones suficientes para asegurar la unicidad del equilibrio Walrasiano y los supuestos bajo los cuales es posible asegurar la existencia de un agente representativo.
     - Asumiendo que las preferencias son representables por funciones de utilidad diferenciables, se demuestra que _casi siempre_ existe un número finito e impar de equilibrios. 
