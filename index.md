@@ -59,7 +59,7 @@
     [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
     [Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
     
-<a name="cinco">  
+<a name="cuatro">  
     
   - #### Equilibrio en Mercados Contingentes y en Mercados Financieros 
      Extenderemos el modelo básico para incluir tiempo e incertidumbre. Analizaremos la existencia de equilibrio en mercados contingentes y en mercados financieros. Mostraremos que la existencia y la eficiencia del equilibrio pueden verse comprometidas cuando los mercados financieros son incompletos. Además, discutiremos los efectos de la innovación financiera en la eficiencia del equilibrio y las dificultades para incluir producción cuando los mercados son incompletos y los dueños de una firma tienen expectativas heterogéneas sobre la realización de la incertidumbre. 
