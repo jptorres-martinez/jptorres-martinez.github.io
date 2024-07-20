@@ -50,17 +50,7 @@
 [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
     [Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
 
-<a name="tres">
-    
- - #### Unicidad (Local) del Equilibrio Walrasiano 
-
-    En economías estáticas sin producción, estudiaremos condiciones suficientes para asegurar la unicidad del equilibrio Walrasiano. Además, determinaremos bajo que supuestos sobre preferencias y asignaciones iniciales es posible asegurar la existencia de un agente representativo. Asumiendo que las preferencias son representables por funciones de utilidad diferenciables, mostraremos que _casi siempre_ existe un número finito e impar de equilibrios. 
-
-   > [Clases y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6843406/Unicidad.de.Equilibrio.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6826631/Unicidad.local.pdf)<br/>
-    [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
-    [Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
-    
-<a name="cuatro">   
+<a name="tres">   
 
   - #### Equilibrio en Economías Estáticas con Producción 
      Incluiremos producción en el modelo básico de intercambio y discutiremos la existencia y la unicidad (local) de equilibrio. Además, mostraremos que las propiedades de bienestar social del modelo básico continuan siendo válidas al incluir producción.
@@ -87,8 +77,7 @@
    Estudiaremos la existencia de _preferencias sociales_ (relaciones de preferencia que reflejen los gustos de todos los miembros de la sociedad). Demostraremos el Teorema de May y el Teorema de Imposibilidad de Arrow. Además, discutiremos las limitaciones para implementar elecciones sociales en situaciones donde el planificador central tiene información incompleta y no puede hacer transferencias (Teorema de Gibbard-Satterthwaite).
    
    > [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9137296/Micro.I.Arrow.%2B.Gibbard-Satterthwaite.pdf)
-  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9137299/Micro.II.Diseno.de.Mecanismos.I.pdf)
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Arrow (1950)](https://www.jstor.org/stable/1828886)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Serrano (2004)](https://www.jstor.org/stable/20453528)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Yu (2013)](https://link.springer.com/article/10.1007/s40505-013-0016-2)<br/>
+  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Arrow (1950)](https://www.jstor.org/stable/1828886)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Serrano (2004)](https://www.jstor.org/stable/20453528)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Yu (2013)](https://link.springer.com/article/10.1007/s40505-013-0016-2)<br/>
     [Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729927/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125148/Eleccion.Social.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
 
 
@@ -151,6 +140,11 @@
     - _Juegos Dinámicos con Información Completa._ Juegos en forma extensiva. Existencia de equilibrio de Nash. Equilibrio Perfecto en Subjuegos con información perfecta y con información imperfecta. Juegos repetidos con horizonte finito e infinito.
  
     - _Juegos con Información Incompleta._ Juegos Bayesianos. Equilibrio de Nash-Bayesiano. Aplicación: Subastas con valoraciones privadas, independientes e idénticamente distribuidas.
+
+- #### [Unicidad de Equilibrio + Agentes Representativos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6843406/Unicidad.de.Equilibrio.pdf)
+
+    - Se discuten condiciones suficientes para asegurar la unicidad del equilibrio Walrasiano y los supuestos bajo los cuales es posible asegurar la existencia de un agente representativo.
+    - Asumiendo que las preferencias son representables por funciones de utilidad diferenciables, se demuestra que _casi siempre_ existe un número finito e impar de equilibrios. 
     
  
 
