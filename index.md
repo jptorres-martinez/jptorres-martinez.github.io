@@ -46,7 +46,7 @@
      En economías estáticas sin producción, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Bajo supuestos bastante generales, mostraremos que todo equilibrio es Pareto eficiente y coalicionalmente estable. Además, analizaremos las condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano.
 
     > [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9146376/Micro.II.Economias.de.Intercambio.-.Bienestar.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698436/Segundo.Teorema.del.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)<br/> 
-[Ejercicios Resueltos]([https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf](https://github.com/user-attachments/files/16323282/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+[Ejercicios Resueltos](https://github.com/user-attachments/files/16323282/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
     [Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
 
 <a name="tres">   
@@ -56,7 +56,7 @@
     
     > [Clases y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9146511/Equilibrio.general.con.produccion.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
 [Arrow & Debreu (1954)](https://www.jstor.org/stable/1907353)<br/>
-    [Ejercicios Resueltos]([https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf](https://github.com/user-attachments/files/16323282/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+    [Ejercicios Resueltos](https://github.com/user-attachments/files/16323282/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
     [Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
     
 <a name="cuatro">  
@@ -66,7 +66,7 @@
     
     > [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9142572/Intro.GEI.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II &nbsp;y&nbsp; Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6843478/Mercados.Incompletos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases III](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9142578/Micro.II.Imperfecciones.GEI.pdf)<br/>
    [Precios de No-Arbitraje](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698533/Precios.de.no-arbitraje.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Hart (1975)](https://www.sciencedirect.com/science/article/pii/0022053175900289)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Geanakoplos (1990)](https://www.sciencedirect.com/science/article/abs/pii/0304406890900347)<br/>
-  [Ejercicios Resueltos]([https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729924/Ejercicios.Resueltos.Equilibrio.general.pdf](https://github.com/user-attachments/files/16323282/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125148/Eleccion.Social.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
+  [Ejercicios Resueltos](https://github.com/user-attachments/files/16323282/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125148/Eleccion.Social.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
  
 <br/> <br/> <a name="segunda">
       
