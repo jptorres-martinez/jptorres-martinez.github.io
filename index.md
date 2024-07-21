@@ -30,7 +30,7 @@
    
 ##  Teoría de Equilibrio General  
 
-[Ejercicios Resueltos](https://github.com/user-attachments/files/16323282/Ejercicios.Resueltos.Equilibrio.general.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
+[Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/user-attachments/files/16323282/Ejercicios.Resueltos.Equilibrio.general.pdf)
     
 <a name="uno"> 
     
@@ -67,7 +67,7 @@
       
 ##  Elección Social y Diseño de Mecanismos  
 
-[Ejercicios Resueltos](https://github.com/user-attachments/files/16322399/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125148/Eleccion.Social.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
+[Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125148/Eleccion.Social.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/user-attachments/files/16322399/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)
 
 - #### Elección Social e Implementación en Estrategias Dominantes <a name="seis">
    Estudiaremos la existencia de _preferencias sociales_ (relaciones de preferencia que reflejen los gustos de todos los miembros de la sociedad). Demostraremos el Teorema de May y el Teorema de Imposibilidad de Arrow. Además, discutiremos las limitaciones para implementar elecciones sociales en situaciones donde el planificador central tiene información incompleta y no puede hacer transferencias (Teorema de Gibbard-Satterthwaite).
@@ -90,7 +90,7 @@
 
 ##  Teoría de Emparejamientos y Diseño de Mecanismos
 
-[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729934/Ejercicios.Resueltos.matching.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125151/Teoria.de.Emparejamientos.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)
+[Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125151/Teoria.de.Emparejamientos.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6729934/Ejercicios.Resueltos.matching.pdf)
 
 - #### Emparejamientos Bilaterales Uno-a-Uno <a name="nueve">
    Estudiaremos mercados en los cuales hay dos grupos de individuos y cada individuo tiene preferencias por los miembros del grupo contrario (p.ej., firmas y trabajadores, mercados matrimoniales). Utilizando el _Algoritmo de Aceptación Diferida_, demostraremos que siempre es posible encontrar un _emparejamiento estable_ (una distribución de la población estable a desvíos coalicionales). Caracterizaremos el conjuntos de emparejamientos estables y mostraremos que, en ausencia de restricciones sobre las preferencias, no existen mecanismos que sean _individualmente racionales_ y _strategy-proof_ que implementen emparejamientos estables o eficientes. 
@@ -107,7 +107,7 @@
 - #### Asignación/Intercambio de Bienes Indivisibles <a name="once">
   Estudiaremos mecanismos _strategy-proof_ para la asignación/intercambio de bienes indivisibles. Dependiendo del contexto, se analizarán algoritmos que implementan soluciones eficientes o coalicionalmente estables (_top trading cycles_, _serial dictatorship_, _YRMH-IGYT_). Además, estudiaremos mecanismos eficientes y _strategy-proof_ para el emparejamiento de pacientes y donadores de órganos.
   
-  > [Clases III](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9142558/Minicurso.Matching.-.Parte.III.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9132644/Minicurso.Matching.-.Parte.IV.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Shapley & Scarf (1974)](https://www.sciencedirect.com/science/article/abs/pii/0304406874900330)<br/>
+  > [Clases III](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9142558/Minicurso.Matching.-.Parte.III.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases IV](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9132644/Minicurso.Matching.-.Parte.IV.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Shapley & Scarf (1974)](https://www.sciencedirect.com/science/article/abs/pii/0304406874900330)<br/>
 [Abdulkadiroğlu & Sönmez (1999)](https://www.sciencedirect.com/science/article/abs/pii/S002205319992553X)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Roth, Sönmez & Ünver (2004)](https://academic.oup.com/qje/article-abstract/119/2/457/1894508)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Roth (2011)](https://www.eltrimestreeconomico.com.mx/index.php/te/article/view/35)
 
 <br/> <br/> 
