@@ -142,8 +142,9 @@
 
 - #### [Apuntes sobre Unicidad de Equilibrio y Agentes Representativos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6843406/Unicidad.de.Equilibrio.pdf)
 
-    - Se discuten condiciones suficientes para asegurar la unicidad del equilibrio Walrasiano y los supuestos bajo los cuales es posible asegurar la existencia de un agente representativo.
-    - Asumiendo que las preferencias son representables por funciones de utilidad diferenciables, se demuestra que _casi siempre_ existe un número finito e impar de equilibrios. 
+    - Se discuten condiciones suficientes para asegurar la unicidad del equilibrio Walrasiano.
+    - Asumiendo que las preferencias son representables por funciones de utilidad diferenciables, se demuestra que _casi siempre_ existe un número finito e impar de equilibrios.
+    -  Se describen supuestos bajo los cuales es posible asegurar la existencia de un agente representativo en economías de intercambio y en contextos con mercados financieros incompletos.
     
  
 
