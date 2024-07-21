@@ -45,14 +45,14 @@
  - #### Propiedades de Bienestar Social del Equilibrio Walrasiano 
      En economías estáticas sin producción, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Bajo supuestos bastante generales, mostraremos que todo equilibrio es Pareto eficiente y coalicionalmente estable. Además, analizaremos las condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano.
 
-    > [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9146376/Micro.II.Economias.de.Intercambio.-.Bienestar.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698436/Segundo.Teorema.del.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)
+    > [Clases III](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9146376/Micro.II.Economias.de.Intercambio.-.Bienestar.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases IV y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698436/Segundo.Teorema.del.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes y Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)
 
 <a name="tres">   
 
   - #### Equilibrio en Economías Estáticas con Producción 
      Incluiremos producción en el modelo básico de intercambio y discutiremos la existencia de equilibrio. Además, mostraremos que las propiedades de bienestar social del modelo básico continuan siendo válidas al incluir producción.
     
-    > [Clases y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9146511/Equilibrio.general.con.produccion.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+    > [Clases V y Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9146511/Equilibrio.general.con.produccion.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
 [Arrow & Debreu (1954)](https://www.jstor.org/stable/1907353)
     
 <a name="cuatro">  
@@ -60,7 +60,7 @@
   - #### Equilibrio en Mercados Contingentes y en Mercados Financieros 
      Extenderemos el modelo básico para incluir tiempo e incertidumbre. Analizaremos la existencia de equilibrio en mercados contingentes y en mercados financieros. Mostraremos que la existencia y la eficiencia del equilibrio pueden verse comprometidas cuando los mercados financieros son incompletos. Además, discutiremos los efectos de la innovación financiera en la eficiencia del equilibrio y las dificultades para incluir producción cuando los mercados son incompletos y los dueños de una firma tienen expectativas heterogéneas sobre la realización de la incertidumbre. 
     
-    > [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9142572/Intro.GEI.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II &nbsp;y&nbsp; Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6843478/Mercados.Incompletos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases III](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9142578/Micro.II.Imperfecciones.GEI.pdf)<br/>
+    > [Clases VI](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9142572/Intro.GEI.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases II &nbsp;y&nbsp; Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6843478/Mercados.Incompletos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases VII](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9142578/Micro.II.Imperfecciones.GEI.pdf)<br/>
    [Precios de No-Arbitraje](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698533/Precios.de.no-arbitraje.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Hart (1975)](https://www.sciencedirect.com/science/article/pii/0022053175900289)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Geanakoplos (1990)](https://www.sciencedirect.com/science/article/abs/pii/0304406890900347)
  
 <br/> <br/> <a name="segunda">
