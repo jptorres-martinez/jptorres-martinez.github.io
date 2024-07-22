@@ -84,7 +84,7 @@
  - #### Implementación en Estrategias Nash <a name="ocho">
    Estudiaremos condiciones necesarias y suficientes para implementar en estrategias Nash una regla de elección social. La _monotonía Maskin_ tendrá un rol clave en estos resultados. Cuando la implementación sea posible, se describirá explícitamente el mecanismo asociado.
    
-   >[Clases III](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9137311/Micro.II.Diseno.de.Mecanismos.III.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Müller (1997)](http://people.stern.nyu.edu/hmueller/papers/Ch1to4.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Maskin (1999)](https://www.jstor.org/stable/2566947?origin=JSTOR-pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Maskin (2012)](http://ojs.econ.uba.ar/index.php/REPBA/article/view/246)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[_La Crema_](https://www.journals.uchicago.edu/doi/abs/10.1086/367680)
+   >[Clases III](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9137311/Micro.II.Diseno.de.Mecanismos.III.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Müller (1997)](http://people.stern.nyu.edu/hmueller/papers/Ch1to4.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Maskin (1999)](https://www.jstor.org/stable/2566947?origin=JSTOR-pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Maskin (2012)](http://ojs.econ.uba.ar/index.php/REPBA/article/view/246)
    
 <br/> <br/> <a name="tercera"> 
 
