@@ -17,7 +17,9 @@
     - [Asignación/Intercambio de Bienes Indivisibles](#once) 
     <br/> &nbsp;
    
-#### &nbsp;&nbsp; :calendar: &nbsp;[Programa de Actividades 2024](https://github.com/user-attachments/files/16316992/Programacion.Microeconomia.II.-.JPTM.-.2024.pdf) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; :books:  &nbsp;[Descripción del Material de Apoyo](https://github.com/user-attachments/files/16327317/Material.de.Apoyo.-.2024.pdf)
+#### &nbsp;&nbsp; :calendar: &nbsp;[Programa de Actividades 2024](https://github.com/user-attachments/files/16394648/Programacion.Microeconomia.II.-.JPTM.-.2024.pdf)
+ &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; :books:  &nbsp;[Descripción del Material de Apoyo](https://github.com/user-attachments/files/16394653/Temas.Ejercicios.Resueltos.pdf)
+
 
 
 
@@ -46,7 +48,8 @@
  - #### Propiedades de Bienestar Social del Equilibrio Walrasiano 
      En economías estáticas sin producción, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Bajo supuestos bastante generales, mostraremos que todo equilibrio es Pareto eficiente y coalicionalmente estable. Además, analizaremos las condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano.
 
-    > [Clases III](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9146376/Micro.II.Economias.de.Intercambio.-.Bienestar.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases IV + Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698436/Segundo.Teorema.del.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes + Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)
+    > [Clases III](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9146376/Micro.II.Economias.de.Intercambio.-.Bienestar.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases IV + Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698436/Segundo.Teorema.del.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes + Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Unicidad](https://github.com/user-attachments/files/16394646/Unicidad.pdf)
+
 
 <a name="tres">   
 
