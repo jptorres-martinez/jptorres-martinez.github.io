@@ -20,9 +20,6 @@
 #### &nbsp;&nbsp; :calendar: &nbsp;[Programa de Actividades 2024](https://github.com/user-attachments/files/16394648/Programacion.Microeconomia.II.-.JPTM.-.2024.pdf)
  &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; :books:  &nbsp;[Descripción del Material de Apoyo](https://github.com/user-attachments/files/16394653/Temas.Ejercicios.Resueltos.pdf)
 
-
-
-
 <br/> 
 
 [![imagen](https://user-images.githubusercontent.com/86209927/123531211-bdc0c180-d6d0-11eb-9cd1-b36998926a49.jpg)](https://econ.uchile.cl/es/academico/jutorres)
