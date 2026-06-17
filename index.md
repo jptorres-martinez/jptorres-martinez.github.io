@@ -34,7 +34,7 @@
 <a name="uno"> 
     
 - #### Equilibrio Walrasiano en Economías Estáticas sin Producción
-     Estudiaremos el modelo básico de equilibrio competitivo. Utilizando _juegos generalizados_ determinaremos condiciones suficientes para asegurar la existencia de un equilibrio Walrasiano. Esta técnica será fácilmente adaptable para demostrar la existencia de equilibrio en modelos más complejos, como aquellos que incluyen producción, externalidades o mercados financieros.
+     Estudiaremos el modelo básico de equilibrio competitivo. Utilizando _juegos generalizados_ determinaremos condiciones suficientes para asegurar la existencia de un equilibrio Walrasiano. Esta técnica será fácilmente adaptable para demostrar la existencia de equilibrio en modelos más complejos, como aquellos que incluyen producción o mercados financieros.
        
      > [A1](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[A2](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/12306195/Apunte.Existencia.de.Equilibrio.%2B.Continuidad.de.Correspondencias.-.2023.pdf)
 &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[B1](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9146435/Micro.II.Economias.de.Intercambio.-.Equilibrio.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[B2](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9146381/Micro.II.Correspondencias.y.Juegos.Generalizados.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Nash (1950)](https://www.pnas.org/content/36/1/48){:target="_blank"}
@@ -43,7 +43,7 @@
 <a name="dos">
 
  - #### Propiedades de Bienestar Social del Equilibrio Walrasiano 
-     En economías estáticas sin producción, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Bajo supuestos bastante generales, mostraremos que todo equilibrio es Pareto eficiente y coalicionalmente estable. Además, analizaremos las condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano.
+     En economías estáticas sin producción, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Bajo supuestos bastante generales, mostraremos que todo equilibrio es Pareto eficiente y coalicionalmente estable. Además, analizaremos condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano.
 
     > [A1](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6683346/Elementos.de.Economia.Matematica.Juan.Pablo.Torres-Martinez.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[A3](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698436/Segundo.Teorema.del.Bienestar.Social.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[A4](https://github.com/user-attachments/files/16394646/Unicidad.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[B3](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9146376/Micro.II.Economias.de.Intercambio.-.Bienestar.pdf)
 
