@@ -54,7 +54,7 @@
      Incluiremos producción en el modelo básico de intercambio y discutiremos la existencia de equilibrio. Además, mostraremos que las propiedades de bienestar social del modelo básico continuan siendo válidas al incluir producción.
     
     > [A5](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9146511/Equilibrio.general.con.produccion.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
-[+ Arrow & Debreu (1954)](https://www.jstor.org/stable/1907353){:target="_blank"}
+[Arrow & Debreu (1954)](https://www.jstor.org/stable/1907353){:target="_blank"}
     
 <a name="cuatro">  
     
@@ -62,7 +62,7 @@
      Extenderemos el modelo básico para incluir tiempo e incertidumbre. Analizaremos la existencia de equilibrio en mercados contingentes y en mercados financieros. Mostraremos que la existencia y la eficiencia del equilibrio pueden verse comprometidas cuando los mercados financieros son incompletos. Además, discutiremos los efectos de la innovación financiera en la eficiencia del equilibrio y las dificultades para incluir producción cuando los mercados son incompletos y los dueños de una firma tienen expectativas heterogéneas sobre la realización de la incertidumbre. 
     
     > [A6](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6843478/Mercados.Incompletos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[A7](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698533/Precios.de.no-arbitraje.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[B4](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9142572/Intro.GEI.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[B5](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9142578/Micro.II.Imperfecciones.GEI.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
-   [Hart (1975)](https://www.sciencedirect.com/science/article/pii/0022053175900289){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[+ Geanakoplos (1990)](https://www.sciencedirect.com/science/article/abs/pii/0304406890900347){:target="_blank"}
+   [Hart (1975)](https://www.sciencedirect.com/science/article/pii/0022053175900289){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Geanakoplos (1990)](https://www.sciencedirect.com/science/article/abs/pii/0304406890900347){:target="_blank"}
  
 <br/> <br/> <a name="segunda">
       
