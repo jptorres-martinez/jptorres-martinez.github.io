@@ -2,9 +2,9 @@
 
 - [**Teoría de Equilibrio General**](#primera)
     - [Equilibrio Walrasiano en Economías Estáticas sin Producción](#uno)
-    - [Propiedades de Bienestar Social del Equilibrio Walrasiano](#dos)
-    - [Equilibrio en Economías Estáticas con Producción](#tres)
-    - [Equilibrio en Mercados Contingentes y en Mercados Financieros](#cuatro)
+    - [Propiedades de Bienestar Social del Equilibrio Walrasiano / Resultados de Unicidad de Equilibrio](#dos)
+    - [Equilibrio y Bienestar Social en Economías Estáticas con Producción](#tres)
+    - [Equilibrio en Mercados Financieros (Completos e Incompletos)](#cuatro)
     <br/> &nbsp;
  - [**Elección Social y Diseño de Mecanismos**](#segunda)
     - [Elección Social e Implementación en Estrategias Dominantes](#seis)
@@ -54,14 +54,14 @@
 
 <a name="tres">   
 
-  - #### Equilibrio en Economías Estáticas con Producción 
+  - #### Equilibrio y Bienestar Social en Economías Estáticas con Producción 
      Incluiremos producción en el modelo básico de intercambio y discutiremos la existencia de equilibrio. Además, mostraremos que las propiedades de bienestar social del modelo básico continuan siendo válidas al incluir producción.
     
     > [EG5](https://github.com/user-attachments/files/30275910/EG5-WEB.-.Equilibrio.con.Produccion.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Arrow & Debreu (1954)](https://www.jstor.org/stable/1907353){:target="_blank"}
     
 <a name="cuatro">  
     
-  - #### Equilibrio en Mercados Contingentes y en Mercados Financieros 
+  - #### Equilibrio en Mercados Financieros (Completos e Incompletos)
      Extenderemos el modelo básico para incluir tiempo e incertidumbre. Analizaremos la existencia de equilibrio en mercados contingentes y en mercados financieros. Mostraremos que la existencia y la eficiencia del equilibrio pueden verse comprometidas cuando los mercados financieros son incompletos. Además, discutiremos los efectos de la innovación financiera en la eficiencia del equilibrio y las dificultades para incluir producción cuando los mercados son incompletos y los dueños de una firma tienen expectativas heterogéneas sobre la realización de la incertidumbre. 
     
     > [EG6](https://github.com/user-attachments/files/30276135/EG6-WEB.-.Introduccion.GEI.pdf)
