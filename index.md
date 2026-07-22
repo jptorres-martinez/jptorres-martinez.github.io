@@ -2,7 +2,8 @@
 
 - [**Teoría de Equilibrio General**](#primera)
     - [Equilibrio Walrasiano en Economías Estáticas sin Producción](#uno)
-    - [Propiedades de Bienestar Social del Equilibrio Walrasiano / Resultados de Unicidad de Equilibrio](#dos)
+    - [Propiedades de Bienestar Social del Equilibrio Walrasiano](#dos)
+    - [Resultados de Unicidad de Equilibrio](#dos)
     - [Equilibrio y Bienestar Social en Economías Estáticas con Producción](#tres)
     - [Equilibrio en Mercados Financieros (Completos e Incompletos)](#cuatro)
     <br/> &nbsp;
