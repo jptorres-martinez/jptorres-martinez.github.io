@@ -30,7 +30,7 @@
 ##  Teoría de Equilibrio General  
 
 [Videos Clases 2020/2021](https://github.com/user-attachments/files/30276562/Clases.2020-2021.pdf)
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes: Teoría de Equilibrio General + Ejercicios Resueltos](https://github.com/user-attachments/files/30276621/Equilibrio.General.Juan.Pablo.Torres-Martinez.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Apuntes: Teoría de Equilibrio General + Ejercicios Resueltos](https://github.com/user-attachments/files/30276621/Equilibrio.General.Juan.Pablo.Torres-Martinez.pdf)
 
     
 <a name="uno"> 
