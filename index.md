@@ -43,7 +43,7 @@
 <a name="dos">
 
  - #### Propiedades de Bienestar Social del Equilibrio Walrasiano / Resultados de Unicidad de Equilibrio
-     En economías estáticas sin producción, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Bajo supuestos bastante generales, mostraremos que todo equilibrio es Pareto eficiente y coalicionalmente estable. Además, analizaremos condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano. Además, presentaremos algunas condiones suficientes para asegurar la unicidad del equilibrio competitivo.
+     En economías estáticas sin producción, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Bajo supuestos bastante generales, mostraremos que todo equilibrio es Pareto eficiente y coalicionalmente estable. Analizaremos supuestos bajo las cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano. Además, estudiaremos condiones suficientes para asegurar la unicidad del equilibrio competitivo.
 
     > [EG3](https://github.com/user-attachments/files/30275729/EG3-WEB.-.Bienestar.Social.en.Economias.de.Intercambio.pdf)
 &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[EG4](https://github.com/user-attachments/files/30275964/EG4-WEB.-.Unicidad.de.Equilibrion.pdf)
