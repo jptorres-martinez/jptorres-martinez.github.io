@@ -17,7 +17,7 @@
     - [Asignación/Intercambio de Bienes Indivisibles](#once) 
     <br/> &nbsp;
    
-#### &nbsp;&nbsp; :calendar: &nbsp;[Programa de Actividades 2025](https://github.com/user-attachments/files/21398000/Programacion.Microeconomia.II.-.JPTM.-.2025.pdf) &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; :books: &nbsp;[Descripción del Material de Apoyo](https://github.com/user-attachments/files/21398023/Material.de.Apoyo.-.2025.pdf)
+#### &nbsp;&nbsp; :calendar: &nbsp;[Programa de Actividades 2025](https://github.com/user-attachments/files/21398000/Programacion.Microeconomia.II.-.JPTM.-.2025.pdf) 
 
 <br/> 
 
@@ -127,34 +127,5 @@
 - [Advanced Microeconomic Theory](http://bibliografias.uchile.cl.us1.proxy.openathens.net/index.php/sisib/catalog/book/3125){:target="_blank"} (_Portal de Bibliografía Básica, Universidad de Chile_) <br/>
   Autores: Geoffrey Jehle and Philip Reny <br/>
     
-- [Matemáticas para el Análisis Económico](http://bibliografias.uchile.cl.us1.proxy.openathens.net/2166){:target="_blank"} (_Portal de Bibliografía Básica, Universidad de Chile_) <br/>
-  Autores: Knut Sydsaeter, Peter Hammond y Andrés Carvajal
-  
-- #### [Apuntes de Teoría de Juegos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6697062/Material.de.Apoyo.II.pdf)
-
-    - _Juegos Estáticos con Información Completa._ Juegos en forma estratégica. Existencia de equilibrio de Nash (juegos convexos, juegos finitos con estrategias mixtas, juegos supermodulares). Unicidad y estabilidad del equilibrio de Nash.
- 
-    - _Juegos Dinámicos con Información Completa._ Juegos en forma extensiva. Existencia de equilibrio de Nash. Equilibrio Perfecto en Subjuegos con información perfecta y con información imperfecta. Juegos repetidos con horizonte finito e infinito.
- 
-    - _Juegos con Información Incompleta._ Juegos Bayesianos. Equilibrio de Nash-Bayesiano. Aplicación: Subastas con valoraciones privadas, independientes e idénticamente distribuidas.
-
-- #### [Apuntes sobre Unicidad de Equilibrio y Agentes Representativos](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6843406/Unicidad.de.Equilibrio.pdf)
-
-    - Se discuten condiciones suficientes para asegurar la unicidad del equilibrio Walrasiano.
-      
-    - Asumiendo que las preferencias son representables por funciones de utilidad diferenciables, se demuestra que _casi siempre_ existe un número finito e impar de equilibrios.
-      
-    -  Se describen supuestos bajo los cuales es posible asegurar la existencia de un agente representativo en economías de intercambio y en contextos con mercados financieros incompletos.
-    
- 
-
-
-  
-    
- 
-
-
-   
-   
 
 
