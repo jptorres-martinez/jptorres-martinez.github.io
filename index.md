@@ -62,8 +62,10 @@
   - #### Equilibrio en Mercados Contingentes y en Mercados Financieros 
      Extenderemos el modelo básico para incluir tiempo e incertidumbre. Analizaremos la existencia de equilibrio en mercados contingentes y en mercados financieros. Mostraremos que la existencia y la eficiencia del equilibrio pueden verse comprometidas cuando los mercados financieros son incompletos. Además, discutiremos los efectos de la innovación financiera en la eficiencia del equilibrio y las dificultades para incluir producción cuando los mercados son incompletos y los dueños de una firma tienen expectativas heterogéneas sobre la realización de la incertidumbre. 
     
-    > [A6](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6843478/Mercados.Incompletos.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[A7](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6698533/Precios.de.no-arbitraje.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[B4](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9142572/Intro.GEI.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[B5](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9142578/Micro.II.Imperfecciones.GEI.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
-   [Hart (1975)](https://www.sciencedirect.com/science/article/pii/0022053175900289){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Geanakoplos (1990)](https://www.sciencedirect.com/science/article/abs/pii/0304406890900347){:target="_blank"}
+    > [EG6](https://github.com/user-attachments/files/30276135/EG6-WEB.-.Introduccion.GEI.pdf)
+&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[EG7](https://github.com/user-attachments/files/30276175/EG7-WEB.-.Equilibrio.con.Mercados.Incompletos.pdf)
+&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[EG8](https://github.com/user-attachments/files/30276192/EG8-WEB.-.Imperfecciones.GEI.pdf)
+&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Hart (1975)](https://www.sciencedirect.com/science/article/pii/0022053175900289){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Geanakoplos (1990)](https://www.sciencedirect.com/science/article/abs/pii/0304406890900347){:target="_blank"}
  
 <br/> <br/> <a name="segunda">
       
