@@ -29,7 +29,9 @@
    
 ##  Teoría de Equilibrio General  
 
-[Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9105089/Teoria.de.Equilibrio.General.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/user-attachments/files/21398040/Ejercicios.Resueltos.Equilibrio.general.pdf)
+[Videos Clases 2020/2021](https://github.com/user-attachments/files/30276562/Clases.2020-2021.pdf)
+&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes Teoría de Equilibrio General + Ejercicios Resueltos](https://github.com/user-attachments/files/30276621/Equilibrio.General.Juan.Pablo.Torres-Martinez.pdf)
+
     
 <a name="uno"> 
     
@@ -43,7 +45,7 @@
 <a name="dos">
 
  - #### Propiedades de Bienestar Social del Equilibrio Walrasiano / Resultados de Unicidad de Equilibrio
-     En economías estáticas sin producción, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Bajo supuestos bastante generales, mostraremos que todo equilibrio es Pareto eficiente y coalicionalmente estable. Analizaremos supuestos bajo los cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano. Además, estudiaremos condiones suficientes para asegurar la unicidad del equilibrio competitivo.
+     En economías estáticas sin producción, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Bajo supuestos bastante generales, mostraremos que todo equilibrio es Pareto eficiente y coalicionalmente estable. Analizaremos supuestos bajo los cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano. Además, estudiaremos condiciones suficientes para asegurar la unicidad del equilibrio competitivo.
 
     > [EG3](https://github.com/user-attachments/files/30275729/EG3-WEB.-.Bienestar.Social.en.Economias.de.Intercambio.pdf)
 &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[EG4](https://github.com/user-attachments/files/30275964/EG4-WEB.-.Unicidad.de.Equilibrion.pdf)
