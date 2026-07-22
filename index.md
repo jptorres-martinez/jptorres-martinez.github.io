@@ -42,10 +42,11 @@
     
 <a name="dos">
 
- - #### Propiedades de Bienestar Social del Equilibrio Walrasiano 
-     En economías estáticas sin producción, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Bajo supuestos bastante generales, mostraremos que todo equilibrio es Pareto eficiente y coalicionalmente estable. Además, analizaremos condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano.
+ - #### Propiedades de Bienestar Social del Equilibrio Walrasiano / Resultados de Unicidad de Equilibrio
+     En economías estáticas sin producción, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Bajo supuestos bastante generales, mostraremos que todo equilibrio es Pareto eficiente y coalicionalmente estable. Además, analizaremos condiciones bajo las cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano. Además, presentaremos algunas condiones suficientes para asegurar la unicidad del equilibrio competitivo.
 
     > [EG3](https://github.com/user-attachments/files/30275729/EG3-WEB.-.Bienestar.Social.en.Economias.de.Intercambio.pdf)
+&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[EG4](https://github.com/user-attachments/files/30275964/EG4-WEB.-.Unicidad.de.Equilibrion.pdf)
 &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Arrow (1951)](https://projecteuclid.org/proceedings/berkeley-symposium-on-mathematical-statistics-and-probability/Proceedings-of-the-Second-Berkeley-Symposium-on-Mathematical-Statistics-and/Chapter/An-Extension-of-the-Basic-Theorems-of-Classical-Welfare-Economics/bsmsp/1200500251){:target="_blank"}
 
 
@@ -54,8 +55,7 @@
   - #### Equilibrio en Economías Estáticas con Producción 
      Incluiremos producción en el modelo básico de intercambio y discutiremos la existencia de equilibrio. Además, mostraremos que las propiedades de bienestar social del modelo básico continuan siendo válidas al incluir producción.
     
-    > [A5](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9146511/Equilibrio.general.con.produccion.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
-[Arrow & Debreu (1954)](https://www.jstor.org/stable/1907353){:target="_blank"}
+    > [EG5](https://github.com/user-attachments/files/30275910/EG5-WEB.-.Equilibrio.con.Produccion.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Arrow & Debreu (1954)](https://www.jstor.org/stable/1907353){:target="_blank"}
     
 <a name="cuatro">  
     
