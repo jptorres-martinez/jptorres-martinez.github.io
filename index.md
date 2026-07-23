@@ -80,19 +80,19 @@
 - #### Elección Social e Implementación en Estrategias Dominantes <a name="seis">
    Estudiaremos la existencia de _preferencias sociales_ (relaciones de preferencia que reflejen los gustos de todos los miembros de la sociedad). Demostraremos el Teorema de May y el Teorema de Imposibilidad de Arrow. Además, discutiremos las limitaciones para implementar elecciones sociales en situaciones donde el planificador central tiene información incompleta y no puede hacer transferencias (Teorema de Gibbard-Satterthwaite).
    
-   > [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9137296/Micro.I.Arrow.%2B.Gibbard-Satterthwaite.pdf)
-  &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Arrow (1950)](https://www.jstor.org/stable/1828886)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Serrano (2004)](https://www.jstor.org/stable/20453528)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Yu (2013)](https://link.springer.com/article/10.1007/s40505-013-0016-2)
+   > [ES1](https://github.com/user-attachments/files/30288403/ES1-WEB.-.Arrow.%2B.Gibbard-Satterthwaite.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[ES2](https://github.com/user-attachments/files/30288420/ES2.-.Teorema.de.May.pdf)
+&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Arrow (1950)](https://www.jstor.org/stable/1828886){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Serrano (2004)](https://www.jstor.org/stable/20453528){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Yu (2013)](https://link.springer.com/article/10.1007/s40505-013-0016-2){:target="_blank"}
 
    
 - #### Implementación en Estrategias Dominantes con Transferencias <a name="siete">
    Estudiaremos modelos en los cuales los agentes tienen preferencias cuasi-lineales y el planificador central puede implementar transferencias para incentivarlos a revelar información sobre sus verdaderas preferencias. Por ejemplo, analizaremos el problema de provisión de un bien público y la venta de un bien indivisible de forma eficiente. Mostraremos que los mecanismos _strategy-proof_ que resuelven esos problemas son casos particulares del mecanismo de Vickrey-Clarke-Groves, el cual caracterizaremos en detalle. 
    
-   > [Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9137310/Micro.II.Diseno.de.Mecanismos.II.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Müller (1997)](http://people.stern.nyu.edu/hmueller/papers/Ch1to4.pdf)
+   > [Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9137310/Micro.II.Diseno.de.Mecanismos.II.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Müller (1997)](http://people.stern.nyu.edu/hmueller/papers/Ch1to4.pdf){:target="_blank"}
    
  - #### Implementación en Estrategias Nash <a name="ocho">
    Estudiaremos condiciones necesarias y suficientes para implementar en estrategias Nash una regla de elección social. La _monotonía Maskin_ tendrá un rol clave en estos resultados. Cuando la implementación sea posible, se describirá explícitamente el mecanismo asociado.
    
-   >[Clases III](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9137311/Micro.II.Diseno.de.Mecanismos.III.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Müller (1997)](http://people.stern.nyu.edu/hmueller/papers/Ch1to4.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Maskin (1999)](https://www.jstor.org/stable/2566947?origin=JSTOR-pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Maskin (2012)](http://ojs.econ.uba.ar/index.php/REPBA/article/view/246)
+   >[Clases III](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9137311/Micro.II.Diseno.de.Mecanismos.III.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Müller (1997)](http://people.stern.nyu.edu/hmueller/papers/Ch1to4.pdf){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Maskin (1999)](https://www.jstor.org/stable/2566947?origin=JSTOR-pdf){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Maskin (2012)](http://ojs.econ.uba.ar/index.php/REPBA/article/view/246){:target="_blank"}
    
 <br/> <br/> <a name="tercera"> 
 
@@ -104,21 +104,21 @@
 - #### Emparejamientos Bilaterales Uno-a-Uno <a name="nueve">
    Estudiaremos mercados en los cuales hay dos grupos de individuos y cada individuo tiene preferencias por los miembros del grupo contrario (p.ej., firmas y trabajadores, mercados matrimoniales). Utilizando el _Algoritmo de Aceptación Diferida_, demostraremos que siempre es posible encontrar un _emparejamiento estable_ (una distribución de la población estable a desvíos coalicionales). Caracterizaremos el conjuntos de emparejamientos estables y mostraremos que, en ausencia de restricciones sobre las preferencias, no existen mecanismos que sean _individualmente racionales_ y _strategy-proof_ que implementen emparejamientos estables o eficientes. 
    
-   > [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9142568/Minicurso.Matching.-.Parte.I.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6826784/Matching.theory.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6690558/Ejercicios.matching.II.pdf)<br/>[Gale & Shapley (1962)](https://www.jstor.org/stable/2312726)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Alcalde & Barberà (1994)](https://link.springer.com/article/10.1007/BF01215380)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
-   [Alcalde (1996)](https://www.sciencedirect.com/science/article/abs/pii/S0022053196900502)
+   > [Clases I](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9142568/Minicurso.Matching.-.Parte.I.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6826784/Matching.theory.pdf)<br/>[Gale & Shapley (1962)](https://www.jstor.org/stable/2312726){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Alcalde & Barberà (1994)](https://link.springer.com/article/10.1007/BF01215380){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+   [Alcalde (1996)](https://www.sciencedirect.com/science/article/abs/pii/S0022053196900502){:target="_blank"}
 
 
 - #### Emparejamientos Bilaterales Muchos-a-Uno <a name="diez">
    Extenderemos el modelo básico de emparejamiento bilateral para permitir que los agentes de uno de los lados del mercado puedan emparejarse con varios individuos del otro lado. Además, analizaremos el problema de elección escolar, en el cual los colegios tienen varias vacantes disponibles y clasifican a los estudiantes utilizando _ordenes de prioridad_. Veremos que desde la perspectiva de los estudiantes, y pensando en mecanismos _strategy-proof_, es imposible compatibilizar eficiencia y estabilidad.
    
-   > [Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9132628/Minicurso.Matching.-.Parte.II.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Roth & Sotomayor (1989)](https://www.jstor.org/stable/1911052)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Abdulkadiroğlu & Sönmez (2003)](https://www.aeaweb.org/articles?id=10.1257/000282803322157061)<br/> [Elección Escolar en Chile](https://dl.acm.org/doi/10.1145/3328526.3329580)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Admisión Universitaria en Chile](https://pubsonline.informs.org/doi/abs/10.1287/opre.2021.2116)
+   > [Clases II](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9132628/Minicurso.Matching.-.Parte.II.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Roth & Sotomayor (1989)](https://www.jstor.org/stable/1911052){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Abdulkadiroğlu & Sönmez (2003)](https://www.aeaweb.org/articles?id=10.1257/000282803322157061){:target="_blank"}<br/> [Elección Escolar en Chile](https://dl.acm.org/doi/10.1145/3328526.3329580){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Admisión Universitaria en Chile](https://pubsonline.informs.org/doi/abs/10.1287/opre.2021.2116){:target="_blank"}
    
 - #### Asignación/Intercambio de Bienes Indivisibles <a name="once">
   Estudiaremos mecanismos _strategy-proof_ para la asignación/intercambio de bienes indivisibles. Dependiendo del contexto, se analizarán algoritmos que implementan soluciones eficientes o coalicionalmente estables (_top trading cycles_, _serial dictatorship_, _YRMH-IGYT_). Además, estudiaremos mecanismos eficientes y _strategy-proof_ para el emparejamiento de pacientes y donadores de órganos.
   
   > [Clases III](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9142558/Minicurso.Matching.-.Parte.III.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases IV](https://github.com/user-attachments/files/23524228/Minicurso.Matching.-.Parte.IV.2025.pdf
-)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Shapley & Scarf (1974)](https://www.sciencedirect.com/science/article/abs/pii/0304406874900330)<br/>
-[Abdulkadiroğlu & Sönmez (1999)](https://www.sciencedirect.com/science/article/abs/pii/S002205319992553X)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Roth, Sönmez & Ünver (2004)](https://academic.oup.com/qje/article-abstract/119/2/457/1894508)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Roth (2011)](https://www.eltrimestreeconomico.com.mx/index.php/te/article/view/35)
+)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Shapley & Scarf (1974)](https://www.sciencedirect.com/science/article/abs/pii/0304406874900330){:target="_blank"}<br/>
+[Abdulkadiroğlu & Sönmez (1999)](https://www.sciencedirect.com/science/article/abs/pii/S002205319992553X){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Roth, Sönmez & Ünver (2004)](https://academic.oup.com/qje/article-abstract/119/2/457/1894508){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Roth (2011)](https://www.eltrimestreeconomico.com.mx/index.php/te/article/view/35){:target="_blank"}
 
 <br/> <br/> 
     
