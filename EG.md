@@ -40,4 +40,6 @@
 &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[EG8](https://github.com/user-attachments/files/30276192/EG8-WEB.-.Imperfecciones.GEI.pdf)
 &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Hart (1975)](https://www.sciencedirect.com/science/article/pii/0022053175900289){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Geanakoplos (1990)](https://www.sciencedirect.com/science/article/abs/pii/0304406890900347){:target="_blank"}
 
-[:leftwards_arrow_with_hook: Volver al Inicio](index.md)
+&nbsp;&nbsp;
+
+[###:leftwards_arrow_with_hook: VOLVER](index.md)
