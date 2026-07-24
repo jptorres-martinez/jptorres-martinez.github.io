@@ -4,7 +4,7 @@ title: Elección Social y Diseño de Mecanismos
 ---
 
 [Videos Clases 2020/2021](https://github.com/user-attachments/files/30329166/Clases.2020-2021.--.ES.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/user-attachments/files/30329180/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/user-attachments/files/30329180/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Maskin (2007)](https://www.nobelprize.org/uploads/2018/06/maskin_lecture.pdf){:target="_blank"}
 
 
 
@@ -22,7 +22,7 @@ title: Elección Social y Diseño de Mecanismos
  - #### Implementación en Estrategias Nash <a name="ocho">
    Estudiaremos condiciones necesarias y suficientes para implementar en estrategias Nash una regla de elección social. La _monotonía Maskin_ tendrá un rol clave en estos resultados. Cuando la implementación sea posible, se describirá explícitamente el mecanismo asociado.
    
-   >[Clases III](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9137311/Micro.II.Diseno.de.Mecanismos.III.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Müller (1997)](https://pages.stern.nyu.edu/~hmueller/papers/LN.pdf){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Maskin (1999)](https://www.jstor.org/stable/2566947?origin=JSTOR-pdf){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Maskin (2007)](https://www.nobelprize.org/uploads/2018/06/maskin_lecture.pdf){:target="_blank"}
+   >[Clases III](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9137311/Micro.II.Diseno.de.Mecanismos.III.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Müller (1997)](https://pages.stern.nyu.edu/~hmueller/papers/LN.pdf){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Maskin (1999)](https://www.jstor.org/stable/2566947?origin=JSTOR-pdf){:target="_blank"}
 
 <br/> 
     
