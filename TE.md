@@ -4,7 +4,7 @@ title: Teoría de Emparejamientos
 ---
 
 [Videos Clases 2020/2021](https://github.com/user-attachments/files/30361613/Clases.2020-2021.--.TE.pdf)
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/user-attachments/files/21398056/Ejercicios.Resueltos.matching.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Roth (2011)](https://www.eltrimestreeconomico.com.mx/index.php/te/article/view/35){:target="_blank"}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/user-attachments/files/21398056/Ejercicios.Resueltos.matching.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Roth (2011)](https://www.eltrimestreeconomico.com.mx/index.php/te/article/view/35){:target="_blank"}
 
 
 - #### Emparejamientos Bilaterales Uno-a-Uno <a name="nueve">
