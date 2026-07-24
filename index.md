@@ -12,10 +12,10 @@
     - [Implementación en Estrategias Dominantes con Transferencias](ES.md#siete)
     - [Implementación en Estrategias Nash](ES.md#ocho)
     <br/> &nbsp;
-- [**Teoría de Emparejamientos y Diseño de Mecanismos**](#tercera)
-    - [Emparejamientos Bilaterales Uno-a-Uno](#nueve)
-    - [Emparejamientos Bilaterales Muchos-a-Uno](#diez)
-    - [Asignación/Intercambio de Bienes Indivisibles](#once) 
+- [**Teoría de Emparejamientos y Diseño de Mecanismos**](TE.md)
+    - [Emparejamientos Bilaterales Uno-a-Uno](TE.md#nueve)
+    - [Emparejamientos Bilaterales Muchos-a-Uno](TE.md#diez)
+    - [Asignación/Intercambio de Bienes Indivisibles](TE.md#once) 
     <br/> &nbsp;
    
 #### &nbsp;&nbsp; :calendar: &nbsp;[PROGRAMACIÓN ENECO620 -- PRIMAVERA 2025](https://github.com/user-attachments/files/21398000/Programacion.Microeconomia.II.-.JPTM.-.2025.pdf) 
