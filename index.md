@@ -1,4 +1,4 @@
-## TEORÍA MICROECONOMICA     
+## TEORÍA MICROECONÓMICA     
 
 - [**Teoría de Equilibrio General**](#primera)
     - [Equilibrio Walrasiano en Economías Estáticas sin Producción](#uno)
@@ -18,7 +18,7 @@
     - [Asignación/Intercambio de Bienes Indivisibles](#once) 
     <br/> &nbsp;
    
-#### &nbsp;&nbsp; :calendar: &nbsp;[Programa de Actividades 2025](https://github.com/user-attachments/files/21398000/Programacion.Microeconomia.II.-.JPTM.-.2025.pdf) 
+#### &nbsp;&nbsp; :calendar: &nbsp;[Programa de Actividades ENECO260 -- 2025](https://github.com/user-attachments/files/21398000/Programacion.Microeconomia.II.-.JPTM.-.2025.pdf) 
 
 <br/> 
 
