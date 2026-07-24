@@ -1,4 +1,4 @@
-## MICROECONOMÍA II (ENECO-620)
+## MICROECONOMÍA II (ENECO-620)     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          #### &nbsp;&nbsp; :calendar: &nbsp;[Programa de Actividades 2025](https://github.com/user-attachments/files/21398000/Programacion.Microeconomia.II.-.JPTM.-.2025.pdf) 
 
 - [**Teoría de Equilibrio General**](#primera)
     - [Equilibrio Walrasiano en Economías Estáticas sin Producción](#uno)
