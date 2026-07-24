@@ -1,4 +1,7 @@
-##  Teoría de Emparejamientos 
+---
+layout: default
+title: Teoría de Emparejamientos
+---
 
 [Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125151/Teoria.de.Emparejamientos.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/user-attachments/files/21398056/Ejercicios.Resueltos.matching.pdf)
 
