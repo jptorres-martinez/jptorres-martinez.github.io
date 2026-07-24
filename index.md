@@ -18,7 +18,7 @@
     - Asignación/Intercambio de Bienes Indivisibles
     <br/> &nbsp;
    
-#### &nbsp;&nbsp; :calendar: &nbsp;[PROGRAMACIÓN ENECO620 -- PRIMAVERA 2025](https://github.com/user-attachments/files/21398000/Programacion.Microeconomia.II.-.JPTM.-.2025.pdf) 
+#### &nbsp;&nbsp; :calendar: &nbsp;[PROGRAMACIÓN ENECO620 -- 2025](https://github.com/user-attachments/files/21398000/Programacion.Microeconomia.II.-.JPTM.-.2025.pdf) 
 
 <br/> 
 
