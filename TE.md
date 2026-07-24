@@ -26,4 +26,4 @@ title: Teoría de Emparejamientos
 
 &nbsp;&nbsp;
 
-[:leftwards_arrow_with_hook: &nbsp; VOLVER](index.md)
+[:leftwards_arrow_with_hook:&nbsp;VOLVER](index.md)
