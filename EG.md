@@ -43,6 +43,19 @@ title: Teoría de Equilibrio General
 &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[EG8](https://github.com/user-attachments/files/30276192/EG8-WEB.-.Imperfecciones.GEI.pdf)
 &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Hart (1975)](https://www.sciencedirect.com/science/article/pii/0022053175900289){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Geanakoplos (1990)](https://www.sciencedirect.com/science/article/abs/pii/0304406890900347){:target="_blank"}
 
+<br/> 
+    
+##  Bibliografía Complementaria
+
+- [Microeconomic Theory](http://bibliografias.uchile.cl.us1.proxy.openathens.net/index.php/sisib/catalog/book/1485){:target="_blank"} (_Portal de Bibliografía Básica, Universidad de Chile_) <br/>
+  Autores: Andreu Mas-Collel, Michael Whinston and Jerry Green <br/>
+  
+- [Advanced Mathematical Economics](http://bibliografias.uchile.cl.us1.proxy.openathens.net/index.php/sisib/catalog/book/1827){:target="_blank"}  (_Portal de Bibliografía Básica, Universidad de Chile_) <br/>
+   Autor: Rakesh Vohra <br/>
+
+- [Advanced Microeconomic Theory](http://bibliografias.uchile.cl.us1.proxy.openathens.net/index.php/sisib/catalog/book/3125){:target="_blank"} (_Portal de Bibliografía Básica, Universidad de Chile_) <br/>
+  Autores: Geoffrey Jehle and Philip Reny <br/>
+
 &nbsp;&nbsp;
 
 [:leftwards_arrow_with_hook: &nbsp; VOLVER](index.md)
