@@ -42,4 +42,4 @@
 
 &nbsp;&nbsp;
 
-[###:leftwards_arrow_with_hook: VOLVER](index.md)
+[:leftwards_arrow_with_hook: &nbsp; VOLVER AL INICIO](index.md)
