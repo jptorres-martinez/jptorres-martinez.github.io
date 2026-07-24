@@ -1,6 +1,6 @@
 ## TEORÍA MICROECONÓMICA     
 
-- [**Teoría de Equilibrio General**](#primera)
+- [**Teoría de Equilibrio General**](EG.md)
     - [Equilibrio Walrasiano en Economías Estáticas sin Producción](#uno)
     - [Propiedades de Bienestar Social del Equilibrio Walrasiano](#dos)
     - [Resultados de Unicidad de Equilibrio](#dos)
