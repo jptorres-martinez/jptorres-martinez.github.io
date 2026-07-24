@@ -27,7 +27,7 @@
 
 <br/> 
     
-##  Bibiografía Complementaria
+##  Bibliografía Complementaria
 
 - [Microeconomic Theory](http://bibliografias.uchile.cl.us1.proxy.openathens.net/index.php/sisib/catalog/book/1485){:target="_blank"} (_Portal de Bibliografía Básica, Universidad de Chile_) <br/>
   Autores: Andreu Mas-Collel, Michael Whinston and Jerry Green <br/>
