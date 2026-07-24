@@ -75,7 +75,7 @@
 ##  Elección Social y Diseño de Mecanismos  
 
 [Videos Clases 2020/2021](https://github.com/user-attachments/files/30329166/Clases.2020-2021.--.ES.pdf)
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/user-attachments/files/30329180/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/user-attachments/files/30329180/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)
 
 
 
