@@ -7,10 +7,10 @@
     - [Equilibrio y Bienestar Social en Economías Estáticas con Producción](EG.md#tres)
     - [Equilibrio en Mercados Financieros (Completos e Incompletos)](EG.md#cuatro)
     <br/> &nbsp;
- - [**Elección Social y Diseño de Mecanismos**](#segunda)
-    - [Elección Social e Implementación en Estrategias Dominantes](#seis)
-    - [Implementación en Estrategias Dominantes con Transferencias](#siete)
-    - [Implementación en Estrategias Nash](#ocho)
+ - [**Elección Social y Diseño de Mecanismos**](ES.md)
+    - [Elección Social e Implementación en Estrategias Dominantes](ES.md#seis)
+    - [Implementación en Estrategias Dominantes con Transferencias](ES.md#siete)
+    - [Implementación en Estrategias Nash](ES.md#ocho)
     <br/> &nbsp;
 - [**Teoría de Emparejamientos y Diseño de Mecanismos**](#tercera)
     - [Emparejamientos Bilaterales Uno-a-Uno](#nueve)
