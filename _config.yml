@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman 
 title: Primavera 2026
-description: Doctorado y Magíster en Economía -  Universidad de Chile <br/> Profesor:&nbsp;&nbsp;Juan Pablo Torres-Martínez
+description: Doctorado y Magíster en Economía -  Universidad de Chile <br/> Profesor:&nbsp;&nbsp;[Juan Pablo Torres-Martínez](https://orcid.org/0000-0002-6542-8396)
 plugins:
   - jemoji
 markdown: kramdown
