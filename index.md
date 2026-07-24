@@ -25,7 +25,7 @@
 [![imagen](https://user-images.githubusercontent.com/86209927/123531211-bdc0c180-d6d0-11eb-9cd1-b36998926a49.jpg)](https://orcid.org/0000-0002-6542-8396)
 
 
-<br/> <br/>
+<br/> 
     
 ##  Material Complementario
 
