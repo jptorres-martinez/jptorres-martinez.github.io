@@ -12,7 +12,7 @@
     - [Implementación en Estrategias Dominantes con Transferencias](ES.md#siete)
     - [Implementación en Estrategias Nash](ES.md#ocho)
     <br/> &nbsp;
-- [**Teoría de Emparejamientos y Diseño de Mecanismos**](TE.md)
+- [**Teoría de Emparejamientos**](TE.md)
     - [Emparejamientos Bilaterales Uno-a-Uno](TE.md#nueve)
     - [Emparejamientos Bilaterales Muchos-a-Uno](TE.md#diez)
     - [Asignación/Intercambio de Bienes Indivisibles](TE.md#once) 
