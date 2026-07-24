@@ -24,6 +24,16 @@ title: Elección Social y Diseño de Mecanismos
    
    >[Clases III](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9137311/Micro.II.Diseno.de.Mecanismos.III.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Müller (1997)](https://pages.stern.nyu.edu/~hmueller/papers/LN.pdf){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Maskin (1999)](https://www.jstor.org/stable/2566947?origin=JSTOR-pdf){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Maskin (2007)](https://www.nobelprize.org/uploads/2018/06/maskin_lecture.pdf){:target="_blank"}
 
-&nbsp;&nbsp;
+<br/> 
+    
+##  Bibliografía Complementaria
+
+- [Microeconomic Theory](http://bibliografias.uchile.cl.us1.proxy.openathens.net/index.php/sisib/catalog/book/1485){:target="_blank"} (_Portal de Bibliografía Básica, Universidad de Chile_) <br/>
+  Autores: Andreu Mas-Collel, Michael Whinston and Jerry Green <br/>
+
+- [Advanced Microeconomic Theory](http://bibliografias.uchile.cl.us1.proxy.openathens.net/index.php/sisib/catalog/book/3125){:target="_blank"} (_Portal de Bibliografía Básica, Universidad de Chile_) <br/>
+  Autores: Geoffrey Jehle and Philip Reny <br/>
+
+  &nbsp;&nbsp;
 
 [:leftwards_arrow_with_hook: &nbsp; VOLVER](index.md)
