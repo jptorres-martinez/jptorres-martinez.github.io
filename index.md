@@ -31,7 +31,7 @@
 ##  Teoría de Equilibrio General  
 
 [Videos Clases 2020/2021](https://github.com/user-attachments/files/30276562/Clases.2020-2021.pdf)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Apuntes: Teoría de Equilibrio General + Ejercicios Resueltos](https://github.com/user-attachments/files/30276621/Equilibrio.General.Juan.Pablo.Torres-Martinez.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Apuntes + Ejercicios Resueltos](https://github.com/user-attachments/files/30276621/Equilibrio.General.Juan.Pablo.Torres-Martinez.pdf)
 
     
 <a name="uno"> 
@@ -74,14 +74,15 @@
       
 ##  Elección Social y Diseño de Mecanismos  
 
-[Videos Clases 2020](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125148/Eleccion.Social.-.Clases.2020.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Videos Clases 2021](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9125161/Clases.2021.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/user-attachments/files/21398047/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)
+[Videos Clases 2020/2021](https://github.com/user-attachments/files/30329166/Clases.2020-2021.--.ES.pdf)
+&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Ejercicios Resueltos](https://github.com/user-attachments/files/30329180/Ejercicios.Resueltos.Eleccion.Social.-.Diseno.de.Mecanismos.pdf)
+
 
 
 - #### Elección Social e Implementación en Estrategias Dominantes <a name="seis">
    Estudiaremos la existencia de _preferencias sociales_ (relaciones de preferencia que reflejen los gustos de todos los miembros de la sociedad). Demostraremos el Teorema de May y el Teorema de Imposibilidad de Arrow. Además, discutiremos las limitaciones para implementar elecciones sociales en situaciones donde el planificador central tiene información incompleta y no puede hacer transferencias (Teorema de Gibbard-Satterthwaite).
    
-   > [ES1](https://github.com/user-attachments/files/30288403/ES1-WEB.-.Arrow.%2B.Gibbard-Satterthwaite.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[ES2](https://github.com/user-attachments/files/30288420/ES2.-.Teorema.de.May.pdf)
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Arrow (1950)](https://www.jstor.org/stable/1828886){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Serrano (2004)](https://www.jstor.org/stable/20453528){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Yu (2013)](https://link.springer.com/article/10.1007/s40505-013-0016-2){:target="_blank"}
+   > [ES1](https://github.com/user-attachments/files/30288403/ES1-WEB.-.Arrow.%2B.Gibbard-Satterthwaite.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[ES2](https://github.com/user-attachments/files/30329202/ES2-WEB.-.Teorema.de.May.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Arrow (1950)](https://www.jstor.org/stable/1828886){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Serrano (2004)](https://www.jstor.org/stable/20453528){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Yu (2013)](https://link.springer.com/article/10.1007/s40505-013-0016-2){:target="_blank"}
 
    
 - #### Implementación en Estrategias Dominantes con Transferencias <a name="siete">
