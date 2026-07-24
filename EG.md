@@ -45,4 +45,4 @@ title: Teoría de Equilibrio General
 
 &nbsp;&nbsp;
 
-[:leftwards_arrow_with_hook: &nbsp; VOLVER AL INICIO](index.md)
+[:leftwards_arrow_with_hook: &nbsp; VOLVER](index.md)
