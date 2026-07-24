@@ -1,4 +1,7 @@
-## TEORÍA MICROECONÓMICA     
+---
+layout: default
+title: TEORÍA MICROECONÓMICA
+---    
 
 - [**Teoría de Equilibrio General**](EG.md)
     - Equilibrio Walrasiano en Economías Estáticas sin Producción
