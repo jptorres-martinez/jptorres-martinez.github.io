@@ -18,7 +18,7 @@
     - Asignación/Intercambio de Bienes Indivisibles
     <br/> &nbsp;
    
-#### &nbsp;&nbsp;:warning: &nbsp;[PROGRAMACIÓN ENECO620 -- 2025](https://github.com/user-attachments/files/21398000/Programacion.Microeconomia.II.-.JPTM.-.2025.pdf) 
+#### &nbsp;&nbsp;<span style="font-size: 50px;">:point_right:</span> &nbsp;[PROGRAMACIÓN ENECO620 -- 2025](https://github.com/user-attachments/files/21398000/Programacion.Microeconomia.II.-.JPTM.-.2025.pdf) 
 
 <br/> 
 
