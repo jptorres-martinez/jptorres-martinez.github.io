@@ -8,14 +8,14 @@
     - Equilibrio en Mercados Financieros (Completos e Incompletos)
     <br/> &nbsp;
  - [**Elección Social y Diseño de Mecanismos**](ES.md)
-    - [Elección Social e Implementación en Estrategias Dominantes](ES.md#seis)
-    - [Implementación en Estrategias Dominantes con Transferencias](ES.md#siete)
-    - [Implementación en Estrategias Nash](ES.md#ocho)
+    - Elección Social e Implementación en Estrategias Dominantes
+    - Implementación en Estrategias Dominantes con Transferencias
+    - Implementación en Estrategias Nash
     <br/> &nbsp;
 - [**Teoría de Emparejamientos**](TE.md)
-    - [Emparejamientos Bilaterales Uno-a-Uno](TE.md#nueve)
-    - [Emparejamientos Bilaterales Muchos-a-Uno](TE.md#diez)
-    - [Asignación/Intercambio de Bienes Indivisibles](TE.md#once) 
+    - Emparejamientos Bilaterales Uno-a-Uno
+    - Emparejamientos Bilaterales Muchos-a-Uno
+    - Asignación/Intercambio de Bienes Indivisibles
     <br/> &nbsp;
    
 #### &nbsp;&nbsp; :calendar: &nbsp;[PROGRAMACIÓN ENECO620 -- PRIMAVERA 2025](https://github.com/user-attachments/files/21398000/Programacion.Microeconomia.II.-.JPTM.-.2025.pdf) 
