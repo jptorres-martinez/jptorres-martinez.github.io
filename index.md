@@ -1,11 +1,11 @@
 ## TEORÍA MICROECONÓMICA     
 
 - [**Teoría de Equilibrio General**](EG.md)
-    - [Equilibrio Walrasiano en Economías Estáticas sin Producción](EG.md#uno)
-    - [Propiedades de Bienestar Social del Equilibrio Walrasiano](EG.md#dos)
-    - [Resultados de Unicidad de Equilibrio](EG.md#dos)
-    - [Equilibrio y Bienestar Social en Economías Estáticas con Producción](EG.md#tres)
-    - [Equilibrio en Mercados Financieros (Completos e Incompletos)](EG.md#cuatro)
+    - [Equilibrio Walrasiano en Economías Estáticas sin Producción]
+    - [Propiedades de Bienestar Social del Equilibrio Walrasiano]
+    - [Resultados de Unicidad de Equilibrio]
+    - [Equilibrio y Bienestar Social en Economías Estáticas con Producción]
+    - [Equilibrio en Mercados Financieros (Completos e Incompletos)]
     <br/> &nbsp;
  - [**Elección Social y Diseño de Mecanismos**](ES.md)
     - [Elección Social e Implementación en Estrategias Dominantes](ES.md#seis)
