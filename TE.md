@@ -20,3 +20,7 @@
   > [Clases III](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9142558/Minicurso.Matching.-.Parte.III.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Clases IV](https://github.com/user-attachments/files/23524228/Minicurso.Matching.-.Parte.IV.2025.pdf
 )&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Shapley & Scarf (1974)](https://www.sciencedirect.com/science/article/abs/pii/0304406874900330){:target="_blank"}<br/>
 [Abdulkadiroğlu & Sönmez (1999)](https://www.sciencedirect.com/science/article/abs/pii/S002205319992553X){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Roth, Sönmez & Ünver (2004)](https://academic.oup.com/qje/article-abstract/119/2/457/1894508){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Roth (2011)](https://www.eltrimestreeconomico.com.mx/index.php/te/article/view/35){:target="_blank"}
+
+&nbsp;&nbsp;
+
+[:leftwards_arrow_with_hook: &nbsp; VOLVER AL INICIO](index.md)
