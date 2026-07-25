@@ -28,4 +28,4 @@ title: Teoría de Emparejamientos
 
 &nbsp;&nbsp;
 
-[:back:&nbsp;VOLVER](index.md)
+[:back:](index.md)
