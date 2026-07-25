@@ -17,7 +17,7 @@ title: TEORÍA MICROECONÓMICA
     - Implementación en Estrategias Dominantes con Transferencias
     - Implementación en Estrategias Nash
     <br/> &nbsp;
-- [**Teoría de Emparejamientos**](TE.md)
+- [**Teoría de Emparejamientos y Diseño de Mecanismos**](TE.md)
     - Emparejamientos Bilaterales Uno-a-Uno
     - Emparejamientos Bilaterales Muchos-a-Uno
     - Asignación/Intercambio de Bienes Indivisibles
