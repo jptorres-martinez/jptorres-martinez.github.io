@@ -3,15 +3,15 @@ layout: default
 title: TEORÍA MICROECONÓMICA
 ---    
 
-### &nbsp;&nbsp;&nbsp;:point_right:&nbsp;:point_right:&nbsp;&nbsp;[PROGRAMA DE ACTIVIDADES ENECO/620 -- 2025](https://github.com/user-attachments/files/21398000/Programacion.Microeconomia.II.-.JPTM.-.2025.pdf) \
-&nbsp;
+### &nbsp;&nbsp;&nbsp;:point_right:&nbsp;:point_right:&nbsp;&nbsp;[PROGRAMA DE ACTIVIDADES ENECO/620 -- 2025](https://github.com/user-attachments/files/21398000/Programacion.Microeconomia.II.-.JPTM.-.2025.pdf) 
+    <br/> &nbsp;
 - [**Teoría de Equilibrio General**](EG.md)
     - Equilibrio Walrasiano en Economías Estáticas sin Producción
     - Propiedades de Bienestar Social del Equilibrio Walrasiano
     - Resultados de Unicidad de Equilibrio
     - Equilibrio y Bienestar Social en Economías Estáticas con Producción
     - Equilibrio en Mercados Financieros (Completos e Incompletos)
-    <br/> &nbsp;
+      <br/> &nbsp;
  - [**Elección Social y Diseño de Mecanismos**](ES.md)
     - Elección Social e Implementación en Estrategias Dominantes
     - Implementación en Estrategias Dominantes con Transferencias
