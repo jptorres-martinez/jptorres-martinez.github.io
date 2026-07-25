@@ -58,4 +58,4 @@ title: Teoría de Equilibrio General
 
 &nbsp;&nbsp;
 
-[:back:&nbsp;VOLVER](index.md)
+[:back:](index.md)
