@@ -36,4 +36,4 @@ title: Elección Social y Diseño de Mecanismos
 
   &nbsp;&nbsp;
 
-[:leftwards_arrow_with_hook:&nbsp;VOLVER](index.md)
+[:back:&nbsp;VOLVER](index.md)
