@@ -12,7 +12,7 @@ title: TEORÍA MICROECONÓMICA
     - Equilibrio y Bienestar Social en Economías Estáticas con Producción
     - Equilibrio en Mercados Financieros (Completos e Incompletos)
       <br/> &nbsp;
- - [**Elección Social y Diseño de Mecanismos**](ES.md)
+ - [**Elección Social**](ES.md)
     - Elección Social e Implementación en Estrategias Dominantes
     - Implementación en Estrategias Dominantes con Transferencias
     - Implementación en Estrategias Nash
