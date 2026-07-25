@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Elección Social y Diseño de Mecanismos
+title: Elección Social
 ---
 
 [Videos Clases 2020/2021](https://github.com/user-attachments/files/30329166/Clases.2020-2021.--.ES.pdf)
