@@ -3,7 +3,8 @@ layout: default
 title: TEORÍA MICROECONÓMICA
 ---    
 
-### &nbsp;&nbsp;&nbsp;:point_right:&nbsp;:point_right:&nbsp;&nbsp;[ENECO/620 -- PROGRAMACIÓN 2026](https://github.com/user-attachments/files/21398000/Programacion.Microeconomia.II.-.JPTM.-.2025.pdf) 
+### &nbsp;&nbsp;&nbsp;:point_right:&nbsp;:point_right:&nbsp;&nbsp;[ENECO/620 -- PROGRAMACIÓN 2026](https://github.com/user-attachments/files/30390166/Programacion.Microeconomia.II.-.JPTM.-.2026.pdf)
+
 
 - [**Teoría de Equilibrio General**](EG.md)
     - Equilibrio Walrasiano en Economías Estáticas sin Producción
