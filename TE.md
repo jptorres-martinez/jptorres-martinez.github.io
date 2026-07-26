@@ -24,8 +24,9 @@ title: Teoría de Emparejamientos
 - #### Asignación/Intercambio de Bienes Indivisibles <a name="once">
   Estudiaremos mecanismos _strategy-proof_ para la asignación/intercambio de bienes indivisibles. Dependiendo del contexto, se analizarán algoritmos que implementan soluciones eficientes o coalicionalmente estables (_top trading cycles_, _serial dictatorship_, _YRMH-IGYT_). Además, estudiaremos mecanismos eficientes y _strategy-proof_ para el emparejamiento de pacientes y donadores de órganos.
   
-  > [TE3](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/9142558/Minicurso.Matching.-.Parte.III.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[TE4](https://github.com/user-attachments/files/23524228/Minicurso.Matching.-.Parte.IV.2025.pdf
-)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Shapley & Scarf (1974)](https://www.sciencedirect.com/science/article/abs/pii/0304406874900330){:target="_blank"}<br/>
+  > [TE3](https://github.com/user-attachments/files/30393100/ET3-WEB.-.Asignacion.e.intercambio.de.objetos.sin.transferencias.pdf)
+&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[TE4](https://github.com/user-attachments/files/30393116/ET4-WEB.-.Transplantes.de.rinon.pdf)
+&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Shapley & Scarf (1974)](https://www.sciencedirect.com/science/article/abs/pii/0304406874900330){:target="_blank"}<br/>
 [Abdulkadiroğlu & Sönmez (1999)](https://www.sciencedirect.com/science/article/abs/pii/S002205319992553X){:target="_blank"}&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Roth, Sönmez & Ünver (2004)](https://academic.oup.com/qje/article-abstract/119/2/457/1894508){:target="_blank"}
 
 &nbsp;&nbsp;
