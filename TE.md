@@ -9,7 +9,7 @@ title: Teoría de Emparejamientos
 
 
 - #### Emparejamientos Bilaterales Uno-a-Uno <a name="nueve">
-   Estudiaremos mercados en los cuales hay dos grupos de individuos y cada individuo tiene preferencias por los miembros del grupo contrario (p.ej., firmas y trabajadores, universidades y estudiantes). Mostraremos que siempre es posible encontrar un _emparejamiento estable_ (una distribución de la población estable a desvíos coalicionales). Caracterizaremos el conjuntos de emparejamientos estables y mostraremos que, en ausencia de restricciones sobre las preferencias, no existen mecanismos que sean _individualmente racionales_ y _strategy-proof_ que implementen emparejamientos estables o eficientes. 
+   Estudiaremos mercados en los cuales hay dos grupos de individuos y cada individuo tiene preferencias por los miembros del grupo contrario (p.ej., firmas y trabajadores, universidades y estudiantes). Mostraremos que siempre es posible encontrar un _emparejamiento estable_ (una distribución de la población estable a desvíos coalicionales). Caracterizaremos el conjuntos de emparejamientos estables y mostraremos que, en ausencia de restricciones sobre las preferencias, no existen mecanismos _individualmente racionales_ y _strategy-proof_ que implementen emparejamientos estables o eficientes. 
    
    > [TE1](https://github.com/user-attachments/files/30382225/ET1-WEB.-.Modelo.uno-a-uno.pdf)
 &nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Apuntes](https://github.com/jptorres-martinez/jptorres-martinez.github.io/files/6826784/Matching.theory.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Gale & Shapley (1962)](https://www.jstor.org/stable/2312726){:target="_blank"}
