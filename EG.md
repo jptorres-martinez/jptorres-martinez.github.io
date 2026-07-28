@@ -12,8 +12,7 @@ title: Teoría de Equilibrio General
 - #### Equilibrio Walrasiano en Economías Estáticas sin Producción 
      Estudiaremos el modelo básico de equilibrio competitivo. Utilizando _juegos generalizados_ determinaremos condiciones suficientes para asegurar la existencia de un equilibrio Walrasiano. Esta técnica será fácilmente adaptable para demostrar la existencia de equilibrio en modelos más complejos, como aquellos que incluyen producción o mercados financieros.
        
-     > [EG1](https://github.com/user-attachments/files/30275601/EG1-WEB.-.Equilibrio.en.Economias.de.Intercambio.pdf)
-&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[EG2](https://github.com/user-attachments/files/30275626/EG2-WEB.-.Correspondencias.y.Juegos.Generalizados.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Nash (1950)](https://www.pnas.org/content/36/1/48){:target="_blank"}
+     > [EG1](https://github.com/user-attachments/files/30481360/EG1-WEB.-.Equilibrio.en.Economias.de.Intercambio.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[EG2](https://github.com/user-attachments/files/30275626/EG2-WEB.-.Correspondencias.y.Juegos.Generalizados.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Nash (1950)](https://www.pnas.org/content/36/1/48){:target="_blank"}
     
     
 <a name="dos">
