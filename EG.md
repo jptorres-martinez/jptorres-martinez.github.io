@@ -21,7 +21,8 @@ title: Teoría de Equilibrio General
  - #### Propiedades de Bienestar Social del Equilibrio Walrasiano / Resultados de Unicidad de Equilibrio
      En economías estáticas sin producción, estudiaremos las propiedades de bienestar social de las distribuciones de recursos generadas en equilibrio. Bajo supuestos bastante generales, mostraremos que todo equilibrio es Pareto eficiente y coalicionalmente estable. Analizaremos supuestos bajo los cuales es posible implementar objetivos sociales a través del mecanismo descentralizado Walrasiano. Además, estudiaremos condiciones suficientes para asegurar la unicidad del equilibrio competitivo.
 
-    > [EG3](https://github.com/user-attachments/files/30489192/EG3-WEB.-.Bienestar.Social.en.Economias.de.Intercambio.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[EG4](https://github.com/user-attachments/files/30489205/EG4-WEB.-.Unicidad.de.Equilibrio.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Arrow (1951)](https://projecteuclid.org/proceedings/berkeley-symposium-on-mathematical-statistics-and-probability/Proceedings-of-the-Second-Berkeley-Symposium-on-Mathematical-Statistics-and/Chapter/An-Extension-of-the-Basic-Theorems-of-Classical-Welfare-Economics/bsmsp/1200500251){:target="_blank"}
+    > [EG3](https://github.com/user-attachments/files/30489460/EG3-WEB.-.Bienestar.Social.en.Economias.de.Intercambio.pdf)
+&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[EG4](https://github.com/user-attachments/files/30489205/EG4-WEB.-.Unicidad.de.Equilibrio.pdf)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;[Arrow (1951)](https://projecteuclid.org/proceedings/berkeley-symposium-on-mathematical-statistics-and-probability/Proceedings-of-the-Second-Berkeley-Symposium-on-Mathematical-Statistics-and/Chapter/An-Extension-of-the-Basic-Theorems-of-Classical-Welfare-Economics/bsmsp/1200500251){:target="_blank"}
 
 
 <a name="tres">   
